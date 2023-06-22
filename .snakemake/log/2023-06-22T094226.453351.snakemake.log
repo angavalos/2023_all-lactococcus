@@ -1,0 +1,8 @@
+Building DAG of jobs...
+MissingInputException in rule rclone in file /home/aavalos7/projects/all-lactococcus/roary.smk, line 17:
+Missing input files for rule rclone:
+    output: /group/weimergrp2/genomes/lactococcus/raw-reads2/BCW_200051_1.fastq.gz, /group/weimergrp2/genomes/lactococcus/raw-reads2/BCW_200051_2.fastq.gz
+    wildcards: smpl=BCW_200051
+    affected files:
+        box:Corn Project/Corn_Isolate_Genomes_WeimerLab/BCW_200051/BCW_200051_2.fastq.gz
+        box:Corn Project/Corn_Isolate_Genomes_WeimerLab/BCW_200051/BCW_200051_1.fastq.gz

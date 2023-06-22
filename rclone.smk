@@ -8,25 +8,24 @@ sampleids = [
 ]
 
 ##### START #####
-
 rule all:
     input:
-        expand(outpath+"/{smpl}_1.fastq.gz", smpl=sampleids),
-        expand(outpath+"/{smpl}_2.fastq.gz", smpl=sampleids)
+        expand(outpath+"{smpl}_1.fastq.gz",smpl=sampleids),
+        expand(outpath+"{smpl}_2.fastq.gz",smpl=sampleids)
 
 rule rclone:
     input:
         in1 = "box:Corn Project/Corn_Isolate_Genomes_WeimerLab/{smpl}/{smpl}_1.fastq.gz",
         in2 = "box:Corn Project/Corn_Isolate_Genomes_WeimerLab/{smpl}/{smpl}_2.fastq.gz"
     output:
-        ou1 = expand(outpath+"/{smpl}_1.fastq.gz", smpl=sampleids),
-        ou2 = expand(outpath+"/{smpl}_2.fastq.gz", smpl=sampleids)
+        outpath+"{smpl}_1.fastq.gz",
+        outpath+"{smpl}_2.fastq.gz"
     params:
         p1 = outpath
     conda:
         "snakeprograms/ymlfiles/rclone.yml"
     shell:
         '''
-        rclone copy in1 p1
-        rlcone copy in2 p2
+        rclone copy {input.in1} p1
+        rlcone copy {input.in2} p1
         '''
