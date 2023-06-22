@@ -17,3 +17,7 @@ other helpful flags (can use 'snakemake --help' for menu)
 -p             prints the shell commands that snakemake will run
 --jobs         can be alternative to --cores if indiviual jobs are not managed by "threads" parameter (non-specified default = 1 thread per job)
 --rerun-incomplete used if failures occur and script is re-run. 
+
+On 2023-06-22, I attempted sbatch using run-local-lacto-smk.sh. Notably, this is just trimming,
+fastqc, and bowtie. No assembly yet. Also, only "local" Lactococcus = those in Weimer lab 
+collection.

@@ -1,0 +1,60 @@
+Building DAG of jobs...
+Your conda installation is not configured to use strict channel priorities. This is however crucial for having robust and correct environments (for details, see https://conda-forge.org/docs/user/tipsandtricks.html). Please consider to configure strict priorities by executing 'conda config --set channel_priority strict'.
+Creating conda environment snakeprograms/ymlfiles/trimmomatic.yml...
+Downloading and installing remote packages.
+Environment for /home/aavalos7/projects/all-lactococcus/snakeprograms/ymlfiles/trimmomatic.yml created (location: .snakemake/conda/bb9cf42c1800921b2560373d8b0a64a8_)
+Creating conda environment snakeprograms/ymlfiles/fastqc.yml...
+Downloading and installing remote packages.
+Environment for /home/aavalos7/projects/all-lactococcus/snakeprograms/ymlfiles/fastqc.yml created (location: .snakemake/conda/0eed7389309f3762a42e17d4d884789d_)
+Creating conda environment snakeprograms/ymlfiles/fastqcr.yml...
+Downloading and installing remote packages.
+Environment for /home/aavalos7/projects/all-lactococcus/snakeprograms/ymlfiles/fastqcr.yml created (location: .snakemake/conda/82f6841738deb8925aeccf83211f823f_)
+Creating conda environment snakeprograms/ymlfiles/bowtie2.yml...
+Downloading and installing remote packages.
+Environment for /home/aavalos7/projects/all-lactococcus/snakeprograms/ymlfiles/bowtie2.yml created (location: .snakemake/conda/f74f8af1e3ea7aef29ac3306df123503_)
+Using shell: /usr/bin/bash
+Provided cores: 1 (use --cores to define parallelism)
+Rules claiming more threads will be scaled down.
+Job stats:
+job               count    min threads    max threads
+--------------  -------  -------------  -------------
+all                   1              1              1
+all_rawFastqc         1              1              1
+all_trimFastqc        1              1              1
+phix_bowtie2        102              1              1
+rawFastqc           102              1              1
+trimFastqc          102              1              1
+trimmomatic         102              1              1
+total               411              1              1
+
+Select jobs to execute...
+
+[Thu Jun 22 16:06:15 2023]
+rule trimmomatic:
+    input: snakeprograms/adapters/all_illumina_trimmomatic_2022Aug01.fa, /group/weimergrp2/genomes/lactococcus/raw-reads2/BCW-000711_1.fastq.gz, /group/weimergrp2/genomes/lactococcus/raw-reads2/BCW-000711_2.fastq.gz
+    output: /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000711/trimedReads/BCW-000711_R1_trim.fastq.gz, /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000711/trimedReads/BCW-000711_R1_se.fastq.gz, /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000711/trimedReads/BCW-000711_R2_trim.fastq.gz, /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000711/trimedReads/BCW-000711_R2_se.fastq.gz
+    jobid: 201
+    reason: Missing output files: /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000711/trimedReads/BCW-000711_R1_trim.fastq.gz, /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000711/trimedReads/BCW-000711_R2_trim.fastq.gz
+    wildcards: smpl=BCW-000711
+    resources: tmpdir=/tmp
+
+Activating conda environment: .snakemake/conda/bb9cf42c1800921b2560373d8b0a64a8_
+Skipping duplicate Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+[Thu Jun 22 16:11:13 2023]
+Finished job 201.
+1 of 411 steps (0.2%) done
+Removing temporary output /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000711/trimedReads/BCW-000711_R1_se.fastq.gz.
+Removing temporary output /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000711/trimedReads/BCW-000711_R2_se.fastq.gz.
+Select jobs to execute...
+
+[Thu Jun 22 16:11:13 2023]
+rule trimmomatic:
+    input: snakeprograms/adapters/all_illumina_trimmomatic_2022Aug01.fa, /group/weimergrp2/genomes/lactococcus/raw-reads2/BCW_200174_1.fastq.gz, /group/weimergrp2/genomes/lactococcus/raw-reads2/BCW_200174_2.fastq.gz
+    output: /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW_200174/trimedReads/BCW_200174_R1_trim.fastq.gz, /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW_200174/trimedReads/BCW_200174_R1_se.fastq.gz, /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW_200174/trimedReads/BCW_200174_R2_trim.fastq.gz, /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW_200174/trimedReads/BCW_200174_R2_se.fastq.gz
+    jobid: 145
+    reason: Missing output files: /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW_200174/trimedReads/BCW_200174_R1_trim.fastq.gz, /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW_200174/trimedReads/BCW_200174_R2_trim.fastq.gz
+    wildcards: smpl=BCW_200174
+    resources: tmpdir=/tmp
+
+Activating conda environment: .snakemake/conda/bb9cf42c1800921b2560373d8b0a64a8_
+Skipping duplicate Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
