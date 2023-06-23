@@ -115,12 +115,12 @@ rule phix_bowtie2:
     output:
         outpath+"/sampleFiles/{smpl}/trimedReads/{smpl}_R1_trim_px.fastq.gz",
         outpath+"/sampleFiles/{smpl}/trimedReads/{smpl}_R2_trim_px.fastq.gz",
-        outpath+"/{smpl}_phix.sam",
-        temp(outpath+"/{smpl}_phix.out")
+        outpath+"/sampleFiles/{smpl}/trimedReads/{smpl}_phix.sam",
+        temp(outpath+"/sampleFiles/{smpl}/trimedReads/{smpl}_phix.out")
     params:
         fq = outpath+"/sampleFiles/{smpl}/trimedReads/{smpl}_R%_trim_px.fastq.gz",
         db = "snakeprograms/databases/phix/Bowtie2Index/genome",
-	sm = outpath+"/sampleFiles/{smpl}/trimedReads/{smpl}_phix.sam",
+	    sm = outpath+"/sampleFiles/{smpl}/trimedReads/{smpl}_phix.sam",
         ot = outpath+"/sampleFiles/{smpl}/trimedReads/{smpl}_phix.out"
     conda:
         "snakeprograms/ymlfiles/bowtie2.yml"

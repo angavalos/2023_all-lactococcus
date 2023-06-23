@@ -6,7 +6,7 @@
 #SBATCH -e local-lacto-qc-trim.j%j.err                   # STANDARD ERROR FILE TO WRITE TO
 #SBATCH -o local-lacto-qc-trim.j%j.out                   # STANDARD OUTPUT FILE TO WRITE TO
 #SBATCH -c 1                                    # NUMBER OF PROCESSORS PER TASK
-#SBATCH --mem=4Gb                               # MEMORY POOL TO ALL CORES
+#SBATCH --mem=16Gb                               # MEMORY POOL TO ALL CORES
 #SBATCH --time=02-00:00:00                      # REQUESTED WALL TIME
 #SBATCH -p high                                # PARTITION TO SUBMIT TO
 
@@ -14,7 +14,7 @@
 . ~/miniconda3/etc/profile.d/conda.sh
 
 conda activate snakemake
-snakemake -s local-lactococcus.smk --use-conda --cores 1 --latency-wait 30 -k
+snakemake -s local-lactococcus.smk --use-conda --cores 1 --latency-wait 30 -k --rerun-incomplete
 
 # Print out final statistics about resource use before job exits
 scontrol show job ${SLURM_JOB_ID}
