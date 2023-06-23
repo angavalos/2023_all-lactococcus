@@ -6,8 +6,8 @@
 #SBATCH -e local-lacto-qc-trim.j%j.err                   # STANDARD ERROR FILE TO WRITE TO
 #SBATCH -o local-lacto-qc-trim.j%j.out                   # STANDARD OUTPUT FILE TO WRITE TO
 #SBATCH -c 1                                    # NUMBER OF PROCESSORS PER TASK
-#SBATCH --mem=2Gb                               # MEMORY POOL TO ALL CORES
-#SBATCH --time=00-1:00:00                      # REQUESTED WALL TIME
+#SBATCH --mem=4Gb                               # MEMORY POOL TO ALL CORES
+#SBATCH --time=02-00:00:00                      # REQUESTED WALL TIME
 #SBATCH -p high                                # PARTITION TO SUBMIT TO
 
 # initialize conda

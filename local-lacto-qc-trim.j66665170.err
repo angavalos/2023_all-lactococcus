@@ -58,3 +58,936 @@ rule trimmomatic:
 
 Activating conda environment: .snakemake/conda/bb9cf42c1800921b2560373d8b0a64a8_
 Skipping duplicate Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+[Thu Jun 22 16:17:49 2023]
+Finished job 145.
+2 of 411 steps (0.5%) done
+Removing temporary output /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW_200174/trimedReads/BCW_200174_R1_se.fastq.gz.
+Removing temporary output /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW_200174/trimedReads/BCW_200174_R2_se.fastq.gz.
+Select jobs to execute...
+
+[Thu Jun 22 16:17:49 2023]
+rule rawFastqc:
+    input: /group/weimergrp2/genomes/lactococcus/raw-reads2/BCW-000270_1.fastq.gz, /group/weimergrp2/genomes/lactococcus/raw-reads2/BCW-000270_2.fastq.gz
+    output: /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000270/fastqc/rawReads/BCW-000270_1_fastqc.zip, /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000270/fastqc/rawReads/BCW-000270_1_fastqc.html, /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000270/fastqc/rawReads/BCW-000270_2_fastqc.zip, /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000270/fastqc/rawReads/BCW-000270_2_fastqc.html
+    jobid: 33
+    reason: Missing output files: /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000270/fastqc/rawReads/BCW-000270_1_fastqc.zip, /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000270/fastqc/rawReads/BCW-000270_2_fastqc.zip
+    wildcards: smpl=BCW-000270
+    resources: tmpdir=/tmp
+
+Activating conda environment: .snakemake/conda/0eed7389309f3762a42e17d4d884789d_
+Started analysis of BCW-000270_1.fastq.gz
+Approx 5% complete for BCW-000270_1.fastq.gz
+Approx 10% complete for BCW-000270_1.fastq.gz
+Approx 15% complete for BCW-000270_1.fastq.gz
+Approx 20% complete for BCW-000270_1.fastq.gz
+Approx 25% complete for BCW-000270_1.fastq.gz
+Approx 30% complete for BCW-000270_1.fastq.gz
+Approx 35% complete for BCW-000270_1.fastq.gz
+Approx 40% complete for BCW-000270_1.fastq.gz
+Approx 45% complete for BCW-000270_1.fastq.gz
+Approx 50% complete for BCW-000270_1.fastq.gz
+Approx 55% complete for BCW-000270_1.fastq.gz
+Approx 60% complete for BCW-000270_1.fastq.gz
+Approx 65% complete for BCW-000270_1.fastq.gz
+Approx 70% complete for BCW-000270_1.fastq.gz
+Approx 75% complete for BCW-000270_1.fastq.gz
+Approx 80% complete for BCW-000270_1.fastq.gz
+Approx 85% complete for BCW-000270_1.fastq.gz
+Approx 90% complete for BCW-000270_1.fastq.gz
+Approx 95% complete for BCW-000270_1.fastq.gz
+Started analysis of BCW-000270_2.fastq.gz
+Approx 5% complete for BCW-000270_2.fastq.gz
+Approx 10% complete for BCW-000270_2.fastq.gz
+Approx 15% complete for BCW-000270_2.fastq.gz
+Approx 20% complete for BCW-000270_2.fastq.gz
+Approx 25% complete for BCW-000270_2.fastq.gz
+Approx 30% complete for BCW-000270_2.fastq.gz
+Approx 35% complete for BCW-000270_2.fastq.gz
+Approx 40% complete for BCW-000270_2.fastq.gz
+Approx 45% complete for BCW-000270_2.fastq.gz
+Approx 50% complete for BCW-000270_2.fastq.gz
+Approx 55% complete for BCW-000270_2.fastq.gz
+Approx 60% complete for BCW-000270_2.fastq.gz
+Approx 65% complete for BCW-000270_2.fastq.gz
+Approx 70% complete for BCW-000270_2.fastq.gz
+Approx 75% complete for BCW-000270_2.fastq.gz
+Approx 80% complete for BCW-000270_2.fastq.gz
+Approx 85% complete for BCW-000270_2.fastq.gz
+Approx 90% complete for BCW-000270_2.fastq.gz
+Approx 95% complete for BCW-000270_2.fastq.gz
+[Thu Jun 22 16:18:22 2023]
+Finished job 33.
+3 of 411 steps (1%) done
+Select jobs to execute...
+
+[Thu Jun 22 16:18:22 2023]
+rule rawFastqc:
+    input: /group/weimergrp2/genomes/lactococcus/raw-reads2/BCW_200150_1.fastq.gz, /group/weimergrp2/genomes/lactococcus/raw-reads2/BCW_200150_2.fastq.gz
+    output: /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW_200150/fastqc/rawReads/BCW_200150_1_fastqc.zip, /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW_200150/fastqc/rawReads/BCW_200150_1_fastqc.html, /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW_200150/fastqc/rawReads/BCW_200150_2_fastqc.zip, /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW_200150/fastqc/rawReads/BCW_200150_2_fastqc.html
+    jobid: 89
+    reason: Missing output files: /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW_200150/fastqc/rawReads/BCW_200150_2_fastqc.zip, /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW_200150/fastqc/rawReads/BCW_200150_1_fastqc.zip
+    wildcards: smpl=BCW_200150
+    resources: tmpdir=/tmp
+
+Activating conda environment: .snakemake/conda/0eed7389309f3762a42e17d4d884789d_
+Started analysis of BCW_200150_1.fastq.gz
+Approx 5% complete for BCW_200150_1.fastq.gz
+Approx 10% complete for BCW_200150_1.fastq.gz
+Approx 15% complete for BCW_200150_1.fastq.gz
+Approx 20% complete for BCW_200150_1.fastq.gz
+Approx 25% complete for BCW_200150_1.fastq.gz
+Approx 30% complete for BCW_200150_1.fastq.gz
+Approx 35% complete for BCW_200150_1.fastq.gz
+Approx 40% complete for BCW_200150_1.fastq.gz
+Approx 45% complete for BCW_200150_1.fastq.gz
+Approx 50% complete for BCW_200150_1.fastq.gz
+Approx 55% complete for BCW_200150_1.fastq.gz
+Approx 60% complete for BCW_200150_1.fastq.gz
+Approx 65% complete for BCW_200150_1.fastq.gz
+Approx 70% complete for BCW_200150_1.fastq.gz
+Approx 75% complete for BCW_200150_1.fastq.gz
+Approx 80% complete for BCW_200150_1.fastq.gz
+Approx 85% complete for BCW_200150_1.fastq.gz
+Approx 90% complete for BCW_200150_1.fastq.gz
+Approx 95% complete for BCW_200150_1.fastq.gz
+Started analysis of BCW_200150_2.fastq.gz
+Approx 5% complete for BCW_200150_2.fastq.gz
+Approx 10% complete for BCW_200150_2.fastq.gz
+Approx 15% complete for BCW_200150_2.fastq.gz
+Approx 20% complete for BCW_200150_2.fastq.gz
+Approx 25% complete for BCW_200150_2.fastq.gz
+Approx 30% complete for BCW_200150_2.fastq.gz
+Approx 35% complete for BCW_200150_2.fastq.gz
+Approx 40% complete for BCW_200150_2.fastq.gz
+Approx 45% complete for BCW_200150_2.fastq.gz
+Approx 50% complete for BCW_200150_2.fastq.gz
+Approx 55% complete for BCW_200150_2.fastq.gz
+Approx 60% complete for BCW_200150_2.fastq.gz
+Approx 65% complete for BCW_200150_2.fastq.gz
+Approx 70% complete for BCW_200150_2.fastq.gz
+Approx 75% complete for BCW_200150_2.fastq.gz
+Approx 80% complete for BCW_200150_2.fastq.gz
+Approx 85% complete for BCW_200150_2.fastq.gz
+Approx 90% complete for BCW_200150_2.fastq.gz
+Approx 95% complete for BCW_200150_2.fastq.gz
+[Thu Jun 22 16:19:04 2023]
+Finished job 89.
+4 of 411 steps (1%) done
+Select jobs to execute...
+
+[Thu Jun 22 16:19:04 2023]
+rule rawFastqc:
+    input: /group/weimergrp2/genomes/lactococcus/raw-reads2/BCW-000544_1.fastq.gz, /group/weimergrp2/genomes/lactococcus/raw-reads2/BCW-000544_2.fastq.gz
+    output: /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000544/fastqc/rawReads/BCW-000544_1_fastqc.zip, /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000544/fastqc/rawReads/BCW-000544_1_fastqc.html, /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000544/fastqc/rawReads/BCW-000544_2_fastqc.zip, /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000544/fastqc/rawReads/BCW-000544_2_fastqc.html
+    jobid: 7
+    reason: Missing output files: /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000544/fastqc/rawReads/BCW-000544_2_fastqc.zip, /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000544/fastqc/rawReads/BCW-000544_1_fastqc.zip
+    wildcards: smpl=BCW-000544
+    resources: tmpdir=/tmp
+
+Activating conda environment: .snakemake/conda/0eed7389309f3762a42e17d4d884789d_
+Started analysis of BCW-000544_1.fastq.gz
+Approx 5% complete for BCW-000544_1.fastq.gz
+Approx 10% complete for BCW-000544_1.fastq.gz
+Approx 15% complete for BCW-000544_1.fastq.gz
+Approx 20% complete for BCW-000544_1.fastq.gz
+Approx 25% complete for BCW-000544_1.fastq.gz
+Approx 30% complete for BCW-000544_1.fastq.gz
+Approx 35% complete for BCW-000544_1.fastq.gz
+Approx 40% complete for BCW-000544_1.fastq.gz
+Approx 45% complete for BCW-000544_1.fastq.gz
+Approx 50% complete for BCW-000544_1.fastq.gz
+Approx 55% complete for BCW-000544_1.fastq.gz
+Approx 60% complete for BCW-000544_1.fastq.gz
+Approx 65% complete for BCW-000544_1.fastq.gz
+Approx 70% complete for BCW-000544_1.fastq.gz
+Approx 75% complete for BCW-000544_1.fastq.gz
+Approx 80% complete for BCW-000544_1.fastq.gz
+Approx 85% complete for BCW-000544_1.fastq.gz
+Approx 90% complete for BCW-000544_1.fastq.gz
+Approx 95% complete for BCW-000544_1.fastq.gz
+Started analysis of BCW-000544_2.fastq.gz
+Approx 5% complete for BCW-000544_2.fastq.gz
+Approx 10% complete for BCW-000544_2.fastq.gz
+Approx 15% complete for BCW-000544_2.fastq.gz
+Approx 20% complete for BCW-000544_2.fastq.gz
+Approx 25% complete for BCW-000544_2.fastq.gz
+Approx 30% complete for BCW-000544_2.fastq.gz
+Approx 35% complete for BCW-000544_2.fastq.gz
+Approx 40% complete for BCW-000544_2.fastq.gz
+Approx 45% complete for BCW-000544_2.fastq.gz
+Approx 50% complete for BCW-000544_2.fastq.gz
+Approx 55% complete for BCW-000544_2.fastq.gz
+Approx 60% complete for BCW-000544_2.fastq.gz
+Approx 65% complete for BCW-000544_2.fastq.gz
+Approx 70% complete for BCW-000544_2.fastq.gz
+Approx 75% complete for BCW-000544_2.fastq.gz
+Approx 80% complete for BCW-000544_2.fastq.gz
+Approx 85% complete for BCW-000544_2.fastq.gz
+Approx 90% complete for BCW-000544_2.fastq.gz
+Approx 95% complete for BCW-000544_2.fastq.gz
+[Thu Jun 22 16:19:27 2023]
+Finished job 7.
+5 of 411 steps (1%) done
+Select jobs to execute...
+
+[Thu Jun 22 16:19:27 2023]
+rule rawFastqc:
+    input: /group/weimergrp2/genomes/lactococcus/raw-reads2/BCW-000609_1.fastq.gz, /group/weimergrp2/genomes/lactococcus/raw-reads2/BCW-000609_2.fastq.gz
+    output: /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000609/fastqc/rawReads/BCW-000609_1_fastqc.zip, /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000609/fastqc/rawReads/BCW-000609_1_fastqc.html, /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000609/fastqc/rawReads/BCW-000609_2_fastqc.zip, /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000609/fastqc/rawReads/BCW-000609_2_fastqc.html
+    jobid: 61
+    reason: Missing output files: /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000609/fastqc/rawReads/BCW-000609_2_fastqc.zip, /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000609/fastqc/rawReads/BCW-000609_1_fastqc.zip
+    wildcards: smpl=BCW-000609
+    resources: tmpdir=/tmp
+
+Activating conda environment: .snakemake/conda/0eed7389309f3762a42e17d4d884789d_
+Started analysis of BCW-000609_1.fastq.gz
+Approx 5% complete for BCW-000609_1.fastq.gz
+Approx 10% complete for BCW-000609_1.fastq.gz
+Approx 15% complete for BCW-000609_1.fastq.gz
+Approx 20% complete for BCW-000609_1.fastq.gz
+Approx 25% complete for BCW-000609_1.fastq.gz
+Approx 30% complete for BCW-000609_1.fastq.gz
+Approx 35% complete for BCW-000609_1.fastq.gz
+Approx 40% complete for BCW-000609_1.fastq.gz
+Approx 45% complete for BCW-000609_1.fastq.gz
+Approx 50% complete for BCW-000609_1.fastq.gz
+Approx 55% complete for BCW-000609_1.fastq.gz
+Approx 60% complete for BCW-000609_1.fastq.gz
+Approx 65% complete for BCW-000609_1.fastq.gz
+Approx 70% complete for BCW-000609_1.fastq.gz
+Approx 75% complete for BCW-000609_1.fastq.gz
+Approx 80% complete for BCW-000609_1.fastq.gz
+Approx 85% complete for BCW-000609_1.fastq.gz
+Approx 90% complete for BCW-000609_1.fastq.gz
+Approx 95% complete for BCW-000609_1.fastq.gz
+Started analysis of BCW-000609_2.fastq.gz
+Approx 5% complete for BCW-000609_2.fastq.gz
+Approx 10% complete for BCW-000609_2.fastq.gz
+Approx 15% complete for BCW-000609_2.fastq.gz
+Approx 20% complete for BCW-000609_2.fastq.gz
+Approx 25% complete for BCW-000609_2.fastq.gz
+Approx 30% complete for BCW-000609_2.fastq.gz
+Approx 35% complete for BCW-000609_2.fastq.gz
+Approx 40% complete for BCW-000609_2.fastq.gz
+Approx 45% complete for BCW-000609_2.fastq.gz
+Approx 50% complete for BCW-000609_2.fastq.gz
+Approx 55% complete for BCW-000609_2.fastq.gz
+Approx 60% complete for BCW-000609_2.fastq.gz
+Approx 65% complete for BCW-000609_2.fastq.gz
+Approx 70% complete for BCW-000609_2.fastq.gz
+Approx 75% complete for BCW-000609_2.fastq.gz
+Approx 80% complete for BCW-000609_2.fastq.gz
+Approx 85% complete for BCW-000609_2.fastq.gz
+Approx 90% complete for BCW-000609_2.fastq.gz
+Approx 95% complete for BCW-000609_2.fastq.gz
+[Thu Jun 22 16:19:47 2023]
+Finished job 61.
+6 of 411 steps (1%) done
+Select jobs to execute...
+
+[Thu Jun 22 16:19:47 2023]
+rule rawFastqc:
+    input: /group/weimergrp2/genomes/lactococcus/raw-reads2/BCW_200238_1.fastq.gz, /group/weimergrp2/genomes/lactococcus/raw-reads2/BCW_200238_2.fastq.gz
+    output: /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW_200238/fastqc/rawReads/BCW_200238_1_fastqc.zip, /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW_200238/fastqc/rawReads/BCW_200238_1_fastqc.html, /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW_200238/fastqc/rawReads/BCW_200238_2_fastqc.zip, /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW_200238/fastqc/rawReads/BCW_200238_2_fastqc.html
+    jobid: 3
+    reason: Missing output files: /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW_200238/fastqc/rawReads/BCW_200238_2_fastqc.zip, /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW_200238/fastqc/rawReads/BCW_200238_1_fastqc.zip
+    wildcards: smpl=BCW_200238
+    resources: tmpdir=/tmp
+
+Activating conda environment: .snakemake/conda/0eed7389309f3762a42e17d4d884789d_
+Started analysis of BCW_200238_1.fastq.gz
+Approx 5% complete for BCW_200238_1.fastq.gz
+Approx 10% complete for BCW_200238_1.fastq.gz
+Approx 15% complete for BCW_200238_1.fastq.gz
+Approx 20% complete for BCW_200238_1.fastq.gz
+Approx 25% complete for BCW_200238_1.fastq.gz
+Approx 30% complete for BCW_200238_1.fastq.gz
+Approx 35% complete for BCW_200238_1.fastq.gz
+Approx 40% complete for BCW_200238_1.fastq.gz
+Approx 45% complete for BCW_200238_1.fastq.gz
+Approx 50% complete for BCW_200238_1.fastq.gz
+Approx 55% complete for BCW_200238_1.fastq.gz
+Approx 60% complete for BCW_200238_1.fastq.gz
+Approx 65% complete for BCW_200238_1.fastq.gz
+Approx 70% complete for BCW_200238_1.fastq.gz
+Approx 75% complete for BCW_200238_1.fastq.gz
+Approx 80% complete for BCW_200238_1.fastq.gz
+Approx 85% complete for BCW_200238_1.fastq.gz
+Approx 90% complete for BCW_200238_1.fastq.gz
+Approx 95% complete for BCW_200238_1.fastq.gz
+Started analysis of BCW_200238_2.fastq.gz
+Approx 5% complete for BCW_200238_2.fastq.gz
+Approx 10% complete for BCW_200238_2.fastq.gz
+Approx 15% complete for BCW_200238_2.fastq.gz
+Approx 20% complete for BCW_200238_2.fastq.gz
+Approx 25% complete for BCW_200238_2.fastq.gz
+Approx 30% complete for BCW_200238_2.fastq.gz
+Approx 35% complete for BCW_200238_2.fastq.gz
+Approx 40% complete for BCW_200238_2.fastq.gz
+Approx 45% complete for BCW_200238_2.fastq.gz
+Approx 50% complete for BCW_200238_2.fastq.gz
+Approx 55% complete for BCW_200238_2.fastq.gz
+Approx 60% complete for BCW_200238_2.fastq.gz
+Approx 65% complete for BCW_200238_2.fastq.gz
+Approx 70% complete for BCW_200238_2.fastq.gz
+Approx 75% complete for BCW_200238_2.fastq.gz
+Approx 80% complete for BCW_200238_2.fastq.gz
+Approx 85% complete for BCW_200238_2.fastq.gz
+Approx 90% complete for BCW_200238_2.fastq.gz
+Approx 95% complete for BCW_200238_2.fastq.gz
+[Thu Jun 22 16:20:39 2023]
+Finished job 3.
+7 of 411 steps (2%) done
+Select jobs to execute...
+
+[Thu Jun 22 16:20:39 2023]
+rule trimmomatic:
+    input: snakeprograms/adapters/all_illumina_trimmomatic_2022Aug01.fa, /group/weimergrp2/genomes/lactococcus/raw-reads2/BCW-000486_1.fastq.gz, /group/weimergrp2/genomes/lactococcus/raw-reads2/BCW-000486_2.fastq.gz
+    output: /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000486/trimedReads/BCW-000486_R1_trim.fastq.gz, /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000486/trimedReads/BCW-000486_R1_se.fastq.gz, /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000486/trimedReads/BCW-000486_R2_trim.fastq.gz, /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000486/trimedReads/BCW-000486_R2_se.fastq.gz
+    jobid: 172
+    reason: Missing output files: /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000486/trimedReads/BCW-000486_R1_trim.fastq.gz, /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000486/trimedReads/BCW-000486_R2_trim.fastq.gz
+    wildcards: smpl=BCW-000486
+    resources: tmpdir=/tmp
+
+Activating conda environment: .snakemake/conda/bb9cf42c1800921b2560373d8b0a64a8_
+Skipping duplicate Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+[Thu Jun 22 16:27:06 2023]
+Finished job 172.
+8 of 411 steps (2%) done
+Removing temporary output /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000486/trimedReads/BCW-000486_R1_se.fastq.gz.
+Removing temporary output /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000486/trimedReads/BCW-000486_R2_se.fastq.gz.
+Select jobs to execute...
+
+[Thu Jun 22 16:27:06 2023]
+rule trimmomatic:
+    input: snakeprograms/adapters/all_illumina_trimmomatic_2022Aug01.fa, /group/weimergrp2/genomes/lactococcus/raw-reads2/BCW-000543_1.fastq.gz, /group/weimergrp2/genomes/lactococcus/raw-reads2/BCW-000543_2.fastq.gz
+    output: /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000543/trimedReads/BCW-000543_R1_trim.fastq.gz, /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000543/trimedReads/BCW-000543_R1_se.fastq.gz, /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000543/trimedReads/BCW-000543_R2_trim.fastq.gz, /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000543/trimedReads/BCW-000543_R2_se.fastq.gz
+    jobid: 117
+    reason: Missing output files: /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000543/trimedReads/BCW-000543_R2_trim.fastq.gz, /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000543/trimedReads/BCW-000543_R1_trim.fastq.gz
+    wildcards: smpl=BCW-000543
+    resources: tmpdir=/tmp
+
+Activating conda environment: .snakemake/conda/bb9cf42c1800921b2560373d8b0a64a8_
+Skipping duplicate Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+[Thu Jun 22 16:28:16 2023]
+Finished job 117.
+9 of 411 steps (2%) done
+Removing temporary output /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000543/trimedReads/BCW-000543_R1_se.fastq.gz.
+Removing temporary output /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000543/trimedReads/BCW-000543_R2_se.fastq.gz.
+Select jobs to execute...
+
+[Thu Jun 22 16:28:17 2023]
+rule trimmomatic:
+    input: snakeprograms/adapters/all_illumina_trimmomatic_2022Aug01.fa, /group/weimergrp2/genomes/lactococcus/raw-reads2/BCW-000701_1.fastq.gz, /group/weimergrp2/genomes/lactococcus/raw-reads2/BCW-000701_2.fastq.gz
+    output: /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000701/trimedReads/BCW-000701_R1_trim.fastq.gz, /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000701/trimedReads/BCW-000701_R1_se.fastq.gz, /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000701/trimedReads/BCW-000701_R2_trim.fastq.gz, /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000701/trimedReads/BCW-000701_R2_se.fastq.gz
+    jobid: 116
+    reason: Missing output files: /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000701/trimedReads/BCW-000701_R1_trim.fastq.gz, /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000701/trimedReads/BCW-000701_R2_trim.fastq.gz
+    wildcards: smpl=BCW-000701
+    resources: tmpdir=/tmp
+
+Activating conda environment: .snakemake/conda/bb9cf42c1800921b2560373d8b0a64a8_
+Skipping duplicate Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+[Thu Jun 22 16:30:02 2023]
+Finished job 116.
+10 of 411 steps (2%) done
+Removing temporary output /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000701/trimedReads/BCW-000701_R1_se.fastq.gz.
+Removing temporary output /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000701/trimedReads/BCW-000701_R2_se.fastq.gz.
+Select jobs to execute...
+
+[Thu Jun 22 16:30:02 2023]
+rule trimmomatic:
+    input: snakeprograms/adapters/all_illumina_trimmomatic_2022Aug01.fa, /group/weimergrp2/genomes/lactococcus/raw-reads2/BCW-000722_1.fastq.gz, /group/weimergrp2/genomes/lactococcus/raw-reads2/BCW-000722_2.fastq.gz
+    output: /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000722/trimedReads/BCW-000722_R1_trim.fastq.gz, /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000722/trimedReads/BCW-000722_R1_se.fastq.gz, /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000722/trimedReads/BCW-000722_R2_trim.fastq.gz, /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000722/trimedReads/BCW-000722_R2_se.fastq.gz
+    jobid: 173
+    reason: Missing output files: /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000722/trimedReads/BCW-000722_R2_trim.fastq.gz, /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000722/trimedReads/BCW-000722_R1_trim.fastq.gz
+    wildcards: smpl=BCW-000722
+    resources: tmpdir=/tmp
+
+Activating conda environment: .snakemake/conda/bb9cf42c1800921b2560373d8b0a64a8_
+Skipping duplicate Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+[Thu Jun 22 16:32:27 2023]
+Finished job 173.
+11 of 411 steps (3%) done
+Removing temporary output /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000722/trimedReads/BCW-000722_R1_se.fastq.gz.
+Removing temporary output /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000722/trimedReads/BCW-000722_R2_se.fastq.gz.
+Select jobs to execute...
+
+[Thu Jun 22 16:32:27 2023]
+rule rawFastqc:
+    input: /group/weimergrp2/genomes/lactococcus/raw-reads2/BCW-9503_1.fastq.gz, /group/weimergrp2/genomes/lactococcus/raw-reads2/BCW-9503_2.fastq.gz
+    output: /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-9503/fastqc/rawReads/BCW-9503_1_fastqc.zip, /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-9503/fastqc/rawReads/BCW-9503_1_fastqc.html, /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-9503/fastqc/rawReads/BCW-9503_2_fastqc.zip, /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-9503/fastqc/rawReads/BCW-9503_2_fastqc.html
+    jobid: 11
+    reason: Missing output files: /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-9503/fastqc/rawReads/BCW-9503_1_fastqc.zip, /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-9503/fastqc/rawReads/BCW-9503_2_fastqc.zip
+    wildcards: smpl=BCW-9503
+    resources: tmpdir=/tmp
+
+Activating conda environment: .snakemake/conda/0eed7389309f3762a42e17d4d884789d_
+Started analysis of BCW-9503_1.fastq.gz
+Approx 5% complete for BCW-9503_1.fastq.gz
+Approx 10% complete for BCW-9503_1.fastq.gz
+Approx 15% complete for BCW-9503_1.fastq.gz
+Approx 20% complete for BCW-9503_1.fastq.gz
+Approx 25% complete for BCW-9503_1.fastq.gz
+Approx 30% complete for BCW-9503_1.fastq.gz
+Approx 35% complete for BCW-9503_1.fastq.gz
+Approx 40% complete for BCW-9503_1.fastq.gz
+Approx 45% complete for BCW-9503_1.fastq.gz
+Approx 50% complete for BCW-9503_1.fastq.gz
+Approx 55% complete for BCW-9503_1.fastq.gz
+Approx 60% complete for BCW-9503_1.fastq.gz
+Approx 65% complete for BCW-9503_1.fastq.gz
+Approx 70% complete for BCW-9503_1.fastq.gz
+Approx 75% complete for BCW-9503_1.fastq.gz
+Approx 80% complete for BCW-9503_1.fastq.gz
+Approx 85% complete for BCW-9503_1.fastq.gz
+Approx 90% complete for BCW-9503_1.fastq.gz
+Approx 95% complete for BCW-9503_1.fastq.gz
+Started analysis of BCW-9503_2.fastq.gz
+Approx 5% complete for BCW-9503_2.fastq.gz
+Approx 10% complete for BCW-9503_2.fastq.gz
+Approx 15% complete for BCW-9503_2.fastq.gz
+Approx 20% complete for BCW-9503_2.fastq.gz
+Approx 25% complete for BCW-9503_2.fastq.gz
+Approx 30% complete for BCW-9503_2.fastq.gz
+Approx 35% complete for BCW-9503_2.fastq.gz
+Approx 40% complete for BCW-9503_2.fastq.gz
+Approx 45% complete for BCW-9503_2.fastq.gz
+Approx 50% complete for BCW-9503_2.fastq.gz
+Approx 55% complete for BCW-9503_2.fastq.gz
+Approx 60% complete for BCW-9503_2.fastq.gz
+Approx 65% complete for BCW-9503_2.fastq.gz
+Approx 70% complete for BCW-9503_2.fastq.gz
+Approx 75% complete for BCW-9503_2.fastq.gz
+Approx 80% complete for BCW-9503_2.fastq.gz
+Approx 85% complete for BCW-9503_2.fastq.gz
+Approx 90% complete for BCW-9503_2.fastq.gz
+Approx 95% complete for BCW-9503_2.fastq.gz
+[Thu Jun 22 16:33:26 2023]
+Finished job 11.
+12 of 411 steps (3%) done
+Select jobs to execute...
+
+[Thu Jun 22 16:33:26 2023]
+rule rawFastqc:
+    input: /group/weimergrp2/genomes/lactococcus/raw-reads2/BCW-000216_1.fastq.gz, /group/weimergrp2/genomes/lactococcus/raw-reads2/BCW-000216_2.fastq.gz
+    output: /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000216/fastqc/rawReads/BCW-000216_1_fastqc.zip, /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000216/fastqc/rawReads/BCW-000216_1_fastqc.html, /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000216/fastqc/rawReads/BCW-000216_2_fastqc.zip, /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000216/fastqc/rawReads/BCW-000216_2_fastqc.html
+    jobid: 90
+    reason: Missing output files: /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000216/fastqc/rawReads/BCW-000216_1_fastqc.zip, /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000216/fastqc/rawReads/BCW-000216_2_fastqc.zip
+    wildcards: smpl=BCW-000216
+    resources: tmpdir=/tmp
+
+Activating conda environment: .snakemake/conda/0eed7389309f3762a42e17d4d884789d_
+Started analysis of BCW-000216_1.fastq.gz
+Approx 5% complete for BCW-000216_1.fastq.gz
+Approx 10% complete for BCW-000216_1.fastq.gz
+Approx 15% complete for BCW-000216_1.fastq.gz
+Approx 20% complete for BCW-000216_1.fastq.gz
+Approx 25% complete for BCW-000216_1.fastq.gz
+Approx 30% complete for BCW-000216_1.fastq.gz
+Approx 35% complete for BCW-000216_1.fastq.gz
+Approx 40% complete for BCW-000216_1.fastq.gz
+Approx 45% complete for BCW-000216_1.fastq.gz
+Approx 50% complete for BCW-000216_1.fastq.gz
+Approx 55% complete for BCW-000216_1.fastq.gz
+Approx 60% complete for BCW-000216_1.fastq.gz
+Approx 65% complete for BCW-000216_1.fastq.gz
+Approx 70% complete for BCW-000216_1.fastq.gz
+Approx 75% complete for BCW-000216_1.fastq.gz
+Approx 80% complete for BCW-000216_1.fastq.gz
+Approx 85% complete for BCW-000216_1.fastq.gz
+Approx 90% complete for BCW-000216_1.fastq.gz
+Approx 95% complete for BCW-000216_1.fastq.gz
+Started analysis of BCW-000216_2.fastq.gz
+Approx 5% complete for BCW-000216_2.fastq.gz
+Approx 10% complete for BCW-000216_2.fastq.gz
+Approx 15% complete for BCW-000216_2.fastq.gz
+Approx 20% complete for BCW-000216_2.fastq.gz
+Approx 25% complete for BCW-000216_2.fastq.gz
+Approx 30% complete for BCW-000216_2.fastq.gz
+Approx 35% complete for BCW-000216_2.fastq.gz
+Approx 40% complete for BCW-000216_2.fastq.gz
+Approx 45% complete for BCW-000216_2.fastq.gz
+Approx 50% complete for BCW-000216_2.fastq.gz
+Approx 55% complete for BCW-000216_2.fastq.gz
+Approx 60% complete for BCW-000216_2.fastq.gz
+Approx 65% complete for BCW-000216_2.fastq.gz
+Approx 70% complete for BCW-000216_2.fastq.gz
+Approx 75% complete for BCW-000216_2.fastq.gz
+Approx 80% complete for BCW-000216_2.fastq.gz
+Approx 85% complete for BCW-000216_2.fastq.gz
+Approx 90% complete for BCW-000216_2.fastq.gz
+Approx 95% complete for BCW-000216_2.fastq.gz
+[Thu Jun 22 16:33:49 2023]
+Finished job 90.
+13 of 411 steps (3%) done
+Select jobs to execute...
+
+[Thu Jun 22 16:33:49 2023]
+rule rawFastqc:
+    input: /group/weimergrp2/genomes/lactococcus/raw-reads2/BCW_200175_1.fastq.gz, /group/weimergrp2/genomes/lactococcus/raw-reads2/BCW_200175_2.fastq.gz
+    output: /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW_200175/fastqc/rawReads/BCW_200175_1_fastqc.zip, /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW_200175/fastqc/rawReads/BCW_200175_1_fastqc.html, /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW_200175/fastqc/rawReads/BCW_200175_2_fastqc.zip, /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW_200175/fastqc/rawReads/BCW_200175_2_fastqc.html
+    jobid: 60
+    reason: Missing output files: /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW_200175/fastqc/rawReads/BCW_200175_1_fastqc.zip, /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW_200175/fastqc/rawReads/BCW_200175_2_fastqc.zip
+    wildcards: smpl=BCW_200175
+    resources: tmpdir=/tmp
+
+Activating conda environment: .snakemake/conda/0eed7389309f3762a42e17d4d884789d_
+Started analysis of BCW_200175_1.fastq.gz
+Approx 5% complete for BCW_200175_1.fastq.gz
+Approx 10% complete for BCW_200175_1.fastq.gz
+Approx 15% complete for BCW_200175_1.fastq.gz
+Approx 20% complete for BCW_200175_1.fastq.gz
+Approx 25% complete for BCW_200175_1.fastq.gz
+Approx 30% complete for BCW_200175_1.fastq.gz
+Approx 35% complete for BCW_200175_1.fastq.gz
+Approx 40% complete for BCW_200175_1.fastq.gz
+Approx 45% complete for BCW_200175_1.fastq.gz
+Approx 50% complete for BCW_200175_1.fastq.gz
+Approx 55% complete for BCW_200175_1.fastq.gz
+Approx 60% complete for BCW_200175_1.fastq.gz
+Approx 65% complete for BCW_200175_1.fastq.gz
+Approx 70% complete for BCW_200175_1.fastq.gz
+Approx 75% complete for BCW_200175_1.fastq.gz
+Approx 80% complete for BCW_200175_1.fastq.gz
+Approx 85% complete for BCW_200175_1.fastq.gz
+Approx 90% complete for BCW_200175_1.fastq.gz
+Approx 95% complete for BCW_200175_1.fastq.gz
+Started analysis of BCW_200175_2.fastq.gz
+Approx 5% complete for BCW_200175_2.fastq.gz
+Approx 10% complete for BCW_200175_2.fastq.gz
+Approx 15% complete for BCW_200175_2.fastq.gz
+Approx 20% complete for BCW_200175_2.fastq.gz
+Approx 25% complete for BCW_200175_2.fastq.gz
+Approx 30% complete for BCW_200175_2.fastq.gz
+Approx 35% complete for BCW_200175_2.fastq.gz
+Approx 40% complete for BCW_200175_2.fastq.gz
+Approx 45% complete for BCW_200175_2.fastq.gz
+Approx 50% complete for BCW_200175_2.fastq.gz
+Approx 55% complete for BCW_200175_2.fastq.gz
+Approx 60% complete for BCW_200175_2.fastq.gz
+Approx 65% complete for BCW_200175_2.fastq.gz
+Approx 70% complete for BCW_200175_2.fastq.gz
+Approx 75% complete for BCW_200175_2.fastq.gz
+Approx 80% complete for BCW_200175_2.fastq.gz
+Approx 85% complete for BCW_200175_2.fastq.gz
+Approx 90% complete for BCW_200175_2.fastq.gz
+Approx 95% complete for BCW_200175_2.fastq.gz
+[Thu Jun 22 16:34:56 2023]
+Finished job 60.
+14 of 411 steps (3%) done
+Select jobs to execute...
+
+[Thu Jun 22 16:34:56 2023]
+rule rawFastqc:
+    input: /group/weimergrp2/genomes/lactococcus/raw-reads2/BCW-000215_1.fastq.gz, /group/weimergrp2/genomes/lactococcus/raw-reads2/BCW-000215_2.fastq.gz
+    output: /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000215/fastqc/rawReads/BCW-000215_1_fastqc.zip, /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000215/fastqc/rawReads/BCW-000215_1_fastqc.html, /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000215/fastqc/rawReads/BCW-000215_2_fastqc.zip, /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000215/fastqc/rawReads/BCW-000215_2_fastqc.html
+    jobid: 34
+    reason: Missing output files: /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000215/fastqc/rawReads/BCW-000215_2_fastqc.zip, /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000215/fastqc/rawReads/BCW-000215_1_fastqc.zip
+    wildcards: smpl=BCW-000215
+    resources: tmpdir=/tmp
+
+Activating conda environment: .snakemake/conda/0eed7389309f3762a42e17d4d884789d_
+Started analysis of BCW-000215_1.fastq.gz
+Approx 5% complete for BCW-000215_1.fastq.gz
+Approx 10% complete for BCW-000215_1.fastq.gz
+Approx 15% complete for BCW-000215_1.fastq.gz
+Approx 20% complete for BCW-000215_1.fastq.gz
+Approx 25% complete for BCW-000215_1.fastq.gz
+Approx 30% complete for BCW-000215_1.fastq.gz
+Approx 35% complete for BCW-000215_1.fastq.gz
+Approx 40% complete for BCW-000215_1.fastq.gz
+Approx 45% complete for BCW-000215_1.fastq.gz
+Approx 50% complete for BCW-000215_1.fastq.gz
+Approx 55% complete for BCW-000215_1.fastq.gz
+Approx 60% complete for BCW-000215_1.fastq.gz
+Approx 65% complete for BCW-000215_1.fastq.gz
+Approx 70% complete for BCW-000215_1.fastq.gz
+Approx 75% complete for BCW-000215_1.fastq.gz
+Approx 80% complete for BCW-000215_1.fastq.gz
+Approx 85% complete for BCW-000215_1.fastq.gz
+Approx 90% complete for BCW-000215_1.fastq.gz
+Approx 95% complete for BCW-000215_1.fastq.gz
+Started analysis of BCW-000215_2.fastq.gz
+Approx 5% complete for BCW-000215_2.fastq.gz
+Approx 10% complete for BCW-000215_2.fastq.gz
+Approx 15% complete for BCW-000215_2.fastq.gz
+Approx 20% complete for BCW-000215_2.fastq.gz
+Approx 25% complete for BCW-000215_2.fastq.gz
+Approx 30% complete for BCW-000215_2.fastq.gz
+Approx 35% complete for BCW-000215_2.fastq.gz
+Approx 40% complete for BCW-000215_2.fastq.gz
+Approx 45% complete for BCW-000215_2.fastq.gz
+Approx 50% complete for BCW-000215_2.fastq.gz
+Approx 55% complete for BCW-000215_2.fastq.gz
+Approx 60% complete for BCW-000215_2.fastq.gz
+Approx 65% complete for BCW-000215_2.fastq.gz
+Approx 70% complete for BCW-000215_2.fastq.gz
+Approx 75% complete for BCW-000215_2.fastq.gz
+Approx 80% complete for BCW-000215_2.fastq.gz
+Approx 85% complete for BCW-000215_2.fastq.gz
+Approx 90% complete for BCW-000215_2.fastq.gz
+Approx 95% complete for BCW-000215_2.fastq.gz
+[Thu Jun 22 16:35:14 2023]
+Finished job 34.
+15 of 411 steps (4%) done
+Select jobs to execute...
+
+[Thu Jun 22 16:35:14 2023]
+rule trimmomatic:
+    input: snakeprograms/adapters/all_illumina_trimmomatic_2022Aug01.fa, /group/weimergrp2/genomes/lactococcus/raw-reads2/BCW_200241_1.fastq.gz, /group/weimergrp2/genomes/lactococcus/raw-reads2/BCW_200241_2.fastq.gz
+    output: /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW_200241/trimedReads/BCW_200241_R1_trim.fastq.gz, /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW_200241/trimedReads/BCW_200241_R1_se.fastq.gz, /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW_200241/trimedReads/BCW_200241_R2_trim.fastq.gz, /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW_200241/trimedReads/BCW_200241_R2_se.fastq.gz
+    jobid: 200
+    reason: Missing output files: /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW_200241/trimedReads/BCW_200241_R1_trim.fastq.gz, /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW_200241/trimedReads/BCW_200241_R2_trim.fastq.gz
+    wildcards: smpl=BCW_200241
+    resources: tmpdir=/tmp
+
+Activating conda environment: .snakemake/conda/bb9cf42c1800921b2560373d8b0a64a8_
+Skipping duplicate Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+[Thu Jun 22 16:39:50 2023]
+Finished job 200.
+16 of 411 steps (4%) done
+Removing temporary output /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW_200241/trimedReads/BCW_200241_R1_se.fastq.gz.
+Removing temporary output /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW_200241/trimedReads/BCW_200241_R2_se.fastq.gz.
+Select jobs to execute...
+
+[Thu Jun 22 16:39:50 2023]
+rule trimmomatic:
+    input: snakeprograms/adapters/all_illumina_trimmomatic_2022Aug01.fa, /group/weimergrp2/genomes/lactococcus/raw-reads2/BCW-000212_1.fastq.gz, /group/weimergrp2/genomes/lactococcus/raw-reads2/BCW-000212_2.fastq.gz
+    output: /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000212/trimedReads/BCW-000212_R1_trim.fastq.gz, /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000212/trimedReads/BCW-000212_R1_se.fastq.gz, /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000212/trimedReads/BCW-000212_R2_trim.fastq.gz, /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000212/trimedReads/BCW-000212_R2_se.fastq.gz
+    jobid: 146
+    reason: Missing output files: /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000212/trimedReads/BCW-000212_R2_trim.fastq.gz, /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000212/trimedReads/BCW-000212_R1_trim.fastq.gz
+    wildcards: smpl=BCW-000212
+    resources: tmpdir=/tmp
+
+Activating conda environment: .snakemake/conda/bb9cf42c1800921b2560373d8b0a64a8_
+Skipping duplicate Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+[Thu Jun 22 16:41:18 2023]
+Finished job 146.
+17 of 411 steps (4%) done
+Removing temporary output /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000212/trimedReads/BCW-000212_R1_se.fastq.gz.
+Removing temporary output /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000212/trimedReads/BCW-000212_R2_se.fastq.gz.
+Select jobs to execute...
+
+[Thu Jun 22 16:41:18 2023]
+rule trimmomatic:
+    input: snakeprograms/adapters/all_illumina_trimmomatic_2022Aug01.fa, /group/weimergrp2/genomes/lactococcus/raw-reads2/BCW-000670_1.fastq.gz, /group/weimergrp2/genomes/lactococcus/raw-reads2/BCW-000670_2.fastq.gz
+    output: /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000670/trimedReads/BCW-000670_R1_trim.fastq.gz, /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000670/trimedReads/BCW-000670_R1_se.fastq.gz, /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000670/trimedReads/BCW-000670_R2_trim.fastq.gz, /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000670/trimedReads/BCW-000670_R2_se.fastq.gz
+    jobid: 144
+    reason: Missing output files: /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000670/trimedReads/BCW-000670_R2_trim.fastq.gz, /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000670/trimedReads/BCW-000670_R1_trim.fastq.gz
+    wildcards: smpl=BCW-000670
+    resources: tmpdir=/tmp
+
+Activating conda environment: .snakemake/conda/bb9cf42c1800921b2560373d8b0a64a8_
+Skipping duplicate Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+[Thu Jun 22 16:42:42 2023]
+Finished job 144.
+18 of 411 steps (4%) done
+Removing temporary output /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000670/trimedReads/BCW-000670_R1_se.fastq.gz.
+Removing temporary output /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000670/trimedReads/BCW-000670_R2_se.fastq.gz.
+Select jobs to execute...
+
+[Thu Jun 22 16:42:43 2023]
+rule trimmomatic:
+    input: snakeprograms/adapters/all_illumina_trimmomatic_2022Aug01.fa, /group/weimergrp2/genomes/lactococcus/raw-reads2/BCW_200232_1.fastq.gz, /group/weimergrp2/genomes/lactococcus/raw-reads2/BCW_200232_2.fastq.gz
+    output: /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW_200232/trimedReads/BCW_200232_R1_trim.fastq.gz, /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW_200232/trimedReads/BCW_200232_R1_se.fastq.gz, /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW_200232/trimedReads/BCW_200232_R2_trim.fastq.gz, /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW_200232/trimedReads/BCW_200232_R2_se.fastq.gz
+    jobid: 202
+    reason: Missing output files: /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW_200232/trimedReads/BCW_200232_R1_trim.fastq.gz, /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW_200232/trimedReads/BCW_200232_R2_trim.fastq.gz
+    wildcards: smpl=BCW_200232
+    resources: tmpdir=/tmp
+
+Activating conda environment: .snakemake/conda/bb9cf42c1800921b2560373d8b0a64a8_
+Skipping duplicate Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+[Thu Jun 22 16:48:31 2023]
+Finished job 202.
+19 of 411 steps (5%) done
+Removing temporary output /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW_200232/trimedReads/BCW_200232_R1_se.fastq.gz.
+Removing temporary output /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW_200232/trimedReads/BCW_200232_R2_se.fastq.gz.
+Select jobs to execute...
+
+[Thu Jun 22 16:48:31 2023]
+rule rawFastqc:
+    input: /group/weimergrp2/genomes/lactococcus/raw-reads2/BCW-9501_1.fastq.gz, /group/weimergrp2/genomes/lactococcus/raw-reads2/BCW-9501_2.fastq.gz
+    output: /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-9501/fastqc/rawReads/BCW-9501_1_fastqc.zip, /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-9501/fastqc/rawReads/BCW-9501_1_fastqc.html, /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-9501/fastqc/rawReads/BCW-9501_2_fastqc.zip, /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-9501/fastqc/rawReads/BCW-9501_2_fastqc.html
+    jobid: 32
+    reason: Missing output files: /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-9501/fastqc/rawReads/BCW-9501_1_fastqc.zip, /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-9501/fastqc/rawReads/BCW-9501_2_fastqc.zip
+    wildcards: smpl=BCW-9501
+    resources: tmpdir=/tmp
+
+Activating conda environment: .snakemake/conda/0eed7389309f3762a42e17d4d884789d_
+Started analysis of BCW-9501_1.fastq.gz
+Approx 5% complete for BCW-9501_1.fastq.gz
+Approx 10% complete for BCW-9501_1.fastq.gz
+Approx 15% complete for BCW-9501_1.fastq.gz
+Approx 20% complete for BCW-9501_1.fastq.gz
+Approx 25% complete for BCW-9501_1.fastq.gz
+Approx 30% complete for BCW-9501_1.fastq.gz
+Approx 35% complete for BCW-9501_1.fastq.gz
+Approx 40% complete for BCW-9501_1.fastq.gz
+Approx 45% complete for BCW-9501_1.fastq.gz
+Approx 50% complete for BCW-9501_1.fastq.gz
+Approx 55% complete for BCW-9501_1.fastq.gz
+Approx 60% complete for BCW-9501_1.fastq.gz
+Approx 65% complete for BCW-9501_1.fastq.gz
+Approx 70% complete for BCW-9501_1.fastq.gz
+Approx 75% complete for BCW-9501_1.fastq.gz
+Approx 80% complete for BCW-9501_1.fastq.gz
+Approx 85% complete for BCW-9501_1.fastq.gz
+Approx 90% complete for BCW-9501_1.fastq.gz
+Approx 95% complete for BCW-9501_1.fastq.gz
+Started analysis of BCW-9501_2.fastq.gz
+Approx 5% complete for BCW-9501_2.fastq.gz
+Approx 10% complete for BCW-9501_2.fastq.gz
+Approx 15% complete for BCW-9501_2.fastq.gz
+Approx 20% complete for BCW-9501_2.fastq.gz
+Approx 25% complete for BCW-9501_2.fastq.gz
+Approx 30% complete for BCW-9501_2.fastq.gz
+Approx 35% complete for BCW-9501_2.fastq.gz
+Approx 40% complete for BCW-9501_2.fastq.gz
+Approx 45% complete for BCW-9501_2.fastq.gz
+Approx 50% complete for BCW-9501_2.fastq.gz
+Approx 55% complete for BCW-9501_2.fastq.gz
+Approx 60% complete for BCW-9501_2.fastq.gz
+Approx 65% complete for BCW-9501_2.fastq.gz
+Approx 70% complete for BCW-9501_2.fastq.gz
+Approx 75% complete for BCW-9501_2.fastq.gz
+Approx 80% complete for BCW-9501_2.fastq.gz
+Approx 85% complete for BCW-9501_2.fastq.gz
+Approx 90% complete for BCW-9501_2.fastq.gz
+Approx 95% complete for BCW-9501_2.fastq.gz
+[Thu Jun 22 16:49:01 2023]
+Finished job 32.
+20 of 411 steps (5%) done
+Select jobs to execute...
+
+[Thu Jun 22 16:49:01 2023]
+rule rawFastqc:
+    input: /group/weimergrp2/genomes/lactococcus/raw-reads2/BCW_200198_1.fastq.gz, /group/weimergrp2/genomes/lactococcus/raw-reads2/BCW_200198_2.fastq.gz
+    output: /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW_200198/fastqc/rawReads/BCW_200198_1_fastqc.zip, /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW_200198/fastqc/rawReads/BCW_200198_1_fastqc.html, /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW_200198/fastqc/rawReads/BCW_200198_2_fastqc.zip, /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW_200198/fastqc/rawReads/BCW_200198_2_fastqc.html
+    jobid: 62
+    reason: Missing output files: /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW_200198/fastqc/rawReads/BCW_200198_2_fastqc.zip, /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW_200198/fastqc/rawReads/BCW_200198_1_fastqc.zip
+    wildcards: smpl=BCW_200198
+    resources: tmpdir=/tmp
+
+Activating conda environment: .snakemake/conda/0eed7389309f3762a42e17d4d884789d_
+Started analysis of BCW_200198_1.fastq.gz
+Approx 5% complete for BCW_200198_1.fastq.gz
+Approx 10% complete for BCW_200198_1.fastq.gz
+Approx 15% complete for BCW_200198_1.fastq.gz
+Approx 20% complete for BCW_200198_1.fastq.gz
+Approx 25% complete for BCW_200198_1.fastq.gz
+Approx 30% complete for BCW_200198_1.fastq.gz
+Approx 35% complete for BCW_200198_1.fastq.gz
+Approx 40% complete for BCW_200198_1.fastq.gz
+Approx 45% complete for BCW_200198_1.fastq.gz
+Approx 50% complete for BCW_200198_1.fastq.gz
+Approx 55% complete for BCW_200198_1.fastq.gz
+Approx 60% complete for BCW_200198_1.fastq.gz
+Approx 65% complete for BCW_200198_1.fastq.gz
+Approx 70% complete for BCW_200198_1.fastq.gz
+Approx 75% complete for BCW_200198_1.fastq.gz
+Approx 80% complete for BCW_200198_1.fastq.gz
+Approx 85% complete for BCW_200198_1.fastq.gz
+Approx 90% complete for BCW_200198_1.fastq.gz
+Approx 95% complete for BCW_200198_1.fastq.gz
+Started analysis of BCW_200198_2.fastq.gz
+Approx 5% complete for BCW_200198_2.fastq.gz
+Approx 10% complete for BCW_200198_2.fastq.gz
+Approx 15% complete for BCW_200198_2.fastq.gz
+Approx 20% complete for BCW_200198_2.fastq.gz
+Approx 25% complete for BCW_200198_2.fastq.gz
+Approx 30% complete for BCW_200198_2.fastq.gz
+Approx 35% complete for BCW_200198_2.fastq.gz
+Approx 40% complete for BCW_200198_2.fastq.gz
+Approx 45% complete for BCW_200198_2.fastq.gz
+Approx 50% complete for BCW_200198_2.fastq.gz
+Approx 55% complete for BCW_200198_2.fastq.gz
+Approx 60% complete for BCW_200198_2.fastq.gz
+Approx 65% complete for BCW_200198_2.fastq.gz
+Approx 70% complete for BCW_200198_2.fastq.gz
+Approx 75% complete for BCW_200198_2.fastq.gz
+Approx 80% complete for BCW_200198_2.fastq.gz
+Approx 85% complete for BCW_200198_2.fastq.gz
+Approx 90% complete for BCW_200198_2.fastq.gz
+Approx 95% complete for BCW_200198_2.fastq.gz
+[Thu Jun 22 16:50:16 2023]
+Finished job 62.
+21 of 411 steps (5%) done
+Select jobs to execute...
+
+[Thu Jun 22 16:50:16 2023]
+rule rawFastqc:
+    input: /group/weimergrp2/genomes/lactococcus/raw-reads2/BCW-000737_1.fastq.gz, /group/weimergrp2/genomes/lactococcus/raw-reads2/BCW-000737_2.fastq.gz
+    output: /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000737/fastqc/rawReads/BCW-000737_1_fastqc.zip, /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000737/fastqc/rawReads/BCW-000737_1_fastqc.html, /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000737/fastqc/rawReads/BCW-000737_2_fastqc.zip, /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000737/fastqc/rawReads/BCW-000737_2_fastqc.html
+    jobid: 4
+    reason: Missing output files: /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000737/fastqc/rawReads/BCW-000737_1_fastqc.zip, /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000737/fastqc/rawReads/BCW-000737_2_fastqc.zip
+    wildcards: smpl=BCW-000737
+    resources: tmpdir=/tmp
+
+Activating conda environment: .snakemake/conda/0eed7389309f3762a42e17d4d884789d_
+Started analysis of BCW-000737_1.fastq.gz
+Approx 5% complete for BCW-000737_1.fastq.gz
+Approx 10% complete for BCW-000737_1.fastq.gz
+Approx 15% complete for BCW-000737_1.fastq.gz
+Approx 20% complete for BCW-000737_1.fastq.gz
+Approx 25% complete for BCW-000737_1.fastq.gz
+Approx 30% complete for BCW-000737_1.fastq.gz
+Approx 35% complete for BCW-000737_1.fastq.gz
+Approx 40% complete for BCW-000737_1.fastq.gz
+Approx 45% complete for BCW-000737_1.fastq.gz
+Approx 50% complete for BCW-000737_1.fastq.gz
+Approx 55% complete for BCW-000737_1.fastq.gz
+Approx 60% complete for BCW-000737_1.fastq.gz
+Approx 65% complete for BCW-000737_1.fastq.gz
+Approx 70% complete for BCW-000737_1.fastq.gz
+Approx 75% complete for BCW-000737_1.fastq.gz
+Approx 80% complete for BCW-000737_1.fastq.gz
+Approx 85% complete for BCW-000737_1.fastq.gz
+Approx 90% complete for BCW-000737_1.fastq.gz
+Approx 95% complete for BCW-000737_1.fastq.gz
+Started analysis of BCW-000737_2.fastq.gz
+Approx 5% complete for BCW-000737_2.fastq.gz
+Approx 10% complete for BCW-000737_2.fastq.gz
+Approx 15% complete for BCW-000737_2.fastq.gz
+Approx 20% complete for BCW-000737_2.fastq.gz
+Approx 25% complete for BCW-000737_2.fastq.gz
+Approx 30% complete for BCW-000737_2.fastq.gz
+Approx 35% complete for BCW-000737_2.fastq.gz
+Approx 40% complete for BCW-000737_2.fastq.gz
+Approx 45% complete for BCW-000737_2.fastq.gz
+Approx 50% complete for BCW-000737_2.fastq.gz
+Approx 55% complete for BCW-000737_2.fastq.gz
+Approx 60% complete for BCW-000737_2.fastq.gz
+Approx 65% complete for BCW-000737_2.fastq.gz
+Approx 70% complete for BCW-000737_2.fastq.gz
+Approx 75% complete for BCW-000737_2.fastq.gz
+Approx 80% complete for BCW-000737_2.fastq.gz
+Approx 85% complete for BCW-000737_2.fastq.gz
+Approx 90% complete for BCW-000737_2.fastq.gz
+Approx 95% complete for BCW-000737_2.fastq.gz
+[Thu Jun 22 16:51:04 2023]
+Finished job 4.
+22 of 411 steps (5%) done
+Select jobs to execute...
+
+[Thu Jun 22 16:51:04 2023]
+rule trimmomatic:
+    input: snakeprograms/adapters/all_illumina_trimmomatic_2022Aug01.fa, /group/weimergrp2/genomes/lactococcus/raw-reads2/BCW-000717_1.fastq.gz, /group/weimergrp2/genomes/lactococcus/raw-reads2/BCW-000717_2.fastq.gz
+    output: /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000717/trimedReads/BCW-000717_R1_trim.fastq.gz, /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000717/trimedReads/BCW-000717_R1_se.fastq.gz, /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000717/trimedReads/BCW-000717_R2_trim.fastq.gz, /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000717/trimedReads/BCW-000717_R2_se.fastq.gz
+    jobid: 118
+    reason: Missing output files: /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000717/trimedReads/BCW-000717_R1_trim.fastq.gz, /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000717/trimedReads/BCW-000717_R2_trim.fastq.gz
+    wildcards: smpl=BCW-000717
+    resources: tmpdir=/tmp
+
+Activating conda environment: .snakemake/conda/bb9cf42c1800921b2560373d8b0a64a8_
+Skipping duplicate Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+[Thu Jun 22 16:55:51 2023]
+Finished job 118.
+23 of 411 steps (6%) done
+Removing temporary output /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000717/trimedReads/BCW-000717_R1_se.fastq.gz.
+Removing temporary output /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000717/trimedReads/BCW-000717_R2_se.fastq.gz.
+Select jobs to execute...
+
+[Thu Jun 22 16:55:51 2023]
+rule rawFastqc:
+    input: /group/weimergrp2/genomes/lactococcus/raw-reads2/BCW-000631_1.fastq.gz, /group/weimergrp2/genomes/lactococcus/raw-reads2/BCW-000631_2.fastq.gz
+    output: /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000631/fastqc/rawReads/BCW-000631_1_fastqc.zip, /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000631/fastqc/rawReads/BCW-000631_1_fastqc.html, /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000631/fastqc/rawReads/BCW-000631_2_fastqc.zip, /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000631/fastqc/rawReads/BCW-000631_2_fastqc.html
+    jobid: 88
+    reason: Missing output files: /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000631/fastqc/rawReads/BCW-000631_1_fastqc.zip, /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000631/fastqc/rawReads/BCW-000631_2_fastqc.zip
+    wildcards: smpl=BCW-000631
+    resources: tmpdir=/tmp
+
+Activating conda environment: .snakemake/conda/0eed7389309f3762a42e17d4d884789d_
+Started analysis of BCW-000631_1.fastq.gz
+Approx 5% complete for BCW-000631_1.fastq.gz
+Approx 10% complete for BCW-000631_1.fastq.gz
+Approx 15% complete for BCW-000631_1.fastq.gz
+Approx 20% complete for BCW-000631_1.fastq.gz
+Approx 25% complete for BCW-000631_1.fastq.gz
+Approx 30% complete for BCW-000631_1.fastq.gz
+Approx 35% complete for BCW-000631_1.fastq.gz
+Approx 40% complete for BCW-000631_1.fastq.gz
+Approx 45% complete for BCW-000631_1.fastq.gz
+Approx 50% complete for BCW-000631_1.fastq.gz
+Approx 55% complete for BCW-000631_1.fastq.gz
+Approx 60% complete for BCW-000631_1.fastq.gz
+Approx 65% complete for BCW-000631_1.fastq.gz
+Approx 70% complete for BCW-000631_1.fastq.gz
+Approx 75% complete for BCW-000631_1.fastq.gz
+Approx 80% complete for BCW-000631_1.fastq.gz
+Approx 85% complete for BCW-000631_1.fastq.gz
+Approx 90% complete for BCW-000631_1.fastq.gz
+Approx 95% complete for BCW-000631_1.fastq.gz
+Started analysis of BCW-000631_2.fastq.gz
+Approx 5% complete for BCW-000631_2.fastq.gz
+Approx 10% complete for BCW-000631_2.fastq.gz
+Approx 15% complete for BCW-000631_2.fastq.gz
+Approx 20% complete for BCW-000631_2.fastq.gz
+Approx 25% complete for BCW-000631_2.fastq.gz
+Approx 30% complete for BCW-000631_2.fastq.gz
+Approx 35% complete for BCW-000631_2.fastq.gz
+Approx 40% complete for BCW-000631_2.fastq.gz
+Approx 45% complete for BCW-000631_2.fastq.gz
+Approx 50% complete for BCW-000631_2.fastq.gz
+Approx 55% complete for BCW-000631_2.fastq.gz
+Approx 60% complete for BCW-000631_2.fastq.gz
+Approx 65% complete for BCW-000631_2.fastq.gz
+Approx 70% complete for BCW-000631_2.fastq.gz
+Approx 75% complete for BCW-000631_2.fastq.gz
+Approx 80% complete for BCW-000631_2.fastq.gz
+Approx 85% complete for BCW-000631_2.fastq.gz
+Approx 90% complete for BCW-000631_2.fastq.gz
+Approx 95% complete for BCW-000631_2.fastq.gz
+[Thu Jun 22 16:56:10 2023]
+Finished job 88.
+24 of 411 steps (6%) done
+Select jobs to execute...
+
+[Thu Jun 22 16:56:10 2023]
+rule trimmomatic:
+    input: snakeprograms/adapters/all_illumina_trimmomatic_2022Aug01.fa, /group/weimergrp2/genomes/lactococcus/raw-reads2/BCW-000490_1.fastq.gz, /group/weimergrp2/genomes/lactococcus/raw-reads2/BCW-000490_2.fastq.gz
+    output: /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000490/trimedReads/BCW-000490_R1_trim.fastq.gz, /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000490/trimedReads/BCW-000490_R1_se.fastq.gz, /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000490/trimedReads/BCW-000490_R2_trim.fastq.gz, /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000490/trimedReads/BCW-000490_R2_se.fastq.gz
+    jobid: 171
+    reason: Missing output files: /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000490/trimedReads/BCW-000490_R2_trim.fastq.gz, /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000490/trimedReads/BCW-000490_R1_trim.fastq.gz
+    wildcards: smpl=BCW-000490
+    resources: tmpdir=/tmp
+
+Activating conda environment: .snakemake/conda/bb9cf42c1800921b2560373d8b0a64a8_
+Skipping duplicate Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+[Thu Jun 22 16:57:42 2023]
+Finished job 171.
+25 of 411 steps (6%) done
+Removing temporary output /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000490/trimedReads/BCW-000490_R1_se.fastq.gz.
+Removing temporary output /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000490/trimedReads/BCW-000490_R2_se.fastq.gz.
+Select jobs to execute...
+
+[Thu Jun 22 16:57:42 2023]
+rule phix_bowtie2:
+    input: /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000490/trimedReads/BCW-000490_R1_trim.fastq.gz, /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000490/trimedReads/BCW-000490_R2_trim.fastq.gz
+    output: /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000490/trimedReads/BCW-000490_R1_trim_px.fastq.gz, /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000490/trimedReads/BCW-000490_R2_trim_px.fastq.gz, /group/weimergrp2/genomes/lactococcus/analysis/BCW-000490_phix.sam, /group/weimergrp2/genomes/lactococcus/analysis/BCW-000490_phix.out
+    jobid: 341
+    reason: Missing output files: /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000490/trimedReads/BCW-000490_R1_trim_px.fastq.gz, /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000490/trimedReads/BCW-000490_R2_trim_px.fastq.gz; Input files updated by another job: /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000490/trimedReads/BCW-000490_R2_trim.fastq.gz, /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000490/trimedReads/BCW-000490_R1_trim.fastq.gz
+    wildcards: smpl=BCW-000490
+    resources: tmpdir=/tmp
+
+Activating conda environment: .snakemake/conda/f74f8af1e3ea7aef29ac3306df123503_
+Waiting at most 30 seconds for missing files.
+MissingOutputException in rule phix_bowtie2 in file /home/aavalos7/projects/all-lactococcus/local-lactococcus.smk, line 111:
+Job 341  completed successfully, but some output files are missing. Missing files after 30 seconds. This might be due to filesystem latency. If that is the case, consider to increase the wait time with --latency-wait:
+/group/weimergrp2/genomes/lactococcus/analysis/BCW-000490_phix.sam
+/group/weimergrp2/genomes/lactococcus/analysis/BCW-000490_phix.out
+Removing output files of failed job phix_bowtie2 since they might be corrupted:
+/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000490/trimedReads/BCW-000490_R1_trim_px.fastq.gz, /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000490/trimedReads/BCW-000490_R2_trim_px.fastq.gz
+Select jobs to execute...
+
+[Thu Jun 22 16:59:21 2023]
+rule trimmomatic:
+    input: snakeprograms/adapters/all_illumina_trimmomatic_2022Aug01.fa, /group/weimergrp2/genomes/lactococcus/raw-reads2/BCW-000718_1.fastq.gz, /group/weimergrp2/genomes/lactococcus/raw-reads2/BCW-000718_2.fastq.gz
+    output: /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000718/trimedReads/BCW-000718_R1_trim.fastq.gz, /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000718/trimedReads/BCW-000718_R1_se.fastq.gz, /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000718/trimedReads/BCW-000718_R2_trim.fastq.gz, /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000718/trimedReads/BCW-000718_R2_se.fastq.gz
+    jobid: 174
+    reason: Missing output files: /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000718/trimedReads/BCW-000718_R2_trim.fastq.gz, /group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000718/trimedReads/BCW-000718_R1_trim.fastq.gz
+    wildcards: smpl=BCW-000718
+    resources: tmpdir=/tmp
+
+Activating conda environment: .snakemake/conda/bb9cf42c1800921b2560373d8b0a64a8_
+Skipping duplicate Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+slurmstepd: error: *** JOB 66665170 ON cpu-8-90 CANCELLED AT 2023-06-22T17:01:25 DUE TO TIME LIMIT ***
