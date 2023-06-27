@@ -21,3 +21,9 @@ other helpful flags (can use 'snakemake --help' for menu)
 On 2023-06-22, I attempted sbatch using run-local-lacto-smk.sh. Notably, this is just trimming,
 fastqc, and bowtie. No assembly yet. Also, only "local" Lactococcus = those in Weimer lab 
 collection.
+
+For BCW_201453 and BCW_201861, I only had access to trimmed reads. Because of this, these samples
+are going to skip portions of the snakemake file. The current plan is to continue from phix rule for
+these samples (next step in workflow). Once snakemake is run for NCBI genomes, there will be files in
+analysis folder for all Lactococcus genomes, then can run the rest of the workflow - will need to fix
+sampleids though (can base on folders in analysis directory).

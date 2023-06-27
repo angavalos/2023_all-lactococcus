@@ -3,17 +3,17 @@ import glob
 #from datetime import date
 #today = date.today().strftime("%Y%b%d")
 
-topath = "/group/weimergrp/{add path to snakefile}"
-inpath = "/group/weimergrp2/genomes/lactococcus/raw_reads" #where your genome sequences are
+topath = "/group/weimergrp/avalos7/projects/all-lactococcus/special-lacto.smk"
+inpath = "/group/weimergrp2/genomes/lactococcus/raw-reads2" #where your genome sequences are
 outpath = "/group/weimergrp2/genomes/lactococcus/analysis" #where you want output files
         ## edit number of threads you wish to give shovill (usually 4)
 
 #fastq files common path and base name
-sampleids=[]
-for name in glob.glob(inpath+"/*.fastq.gz"):
-    ID = os.path.basename(name).split("_1")[0]
-    if ID not in sampleids and os.path.isfile(inpath+"/"+ID+"_1.fastq.gz") == True and os.path.isfile(inpath+"/"+ID+"_2.fastq.gz") == True:
-        sampleids.append(ID)
+sampleids=["BCW_201453","BCW_201861"]
+#for name in glob.glob(inpath+"/*.fastq.gz"):
+#    ID = os.path.basename(name).split("_1")[0]
+#    if ID not in sampleids and os.path.isfile(inpath+"/"+ID+"_1.fastq.gz") == True and os.path.isfile(inpath+"/"+ID+"_2.fastq.gz") == True:
+#        sampleids.append(ID)
 
 #print(sampleids)
 print("length: ",len(sampleids))
@@ -26,11 +26,11 @@ localrules: all
 #####START#####
 rule all:
     input:
-        expand(outpath+"/sampleFiles/{smpl}/fastqc/rawReads/{smpl}_1_fastqc.zip", smpl=sampleids),
-        expand(outpath+"/sampleFiles/{smpl}/fastqc/rawReads/{smpl}_2_fastqc.zip", smpl=sampleids),
-        expand(outpath+"/batchReports/allFQC/rawReads/metrics.csv", smpl=sampleids),
-        expand(outpath+"/sampleFiles/{smpl}/trimedReads/{smpl}_R1_trim.fastq.gz", smpl=sampleids),
-        expand(outpath+"/sampleFiles/{smpl}/trimedReads/{smpl}_R2_trim.fastq.gz", smpl=sampleids),
+        #expand(outpath+"/sampleFiles/{smpl}/fastqc/rawReads/{smpl}_1_fastqc.zip", smpl=sampleids),
+        #expand(outpath+"/sampleFiles/{smpl}/fastqc/rawReads/{smpl}_2_fastqc.zip", smpl=sampleids),
+        #expand(outpath+"/batchReports/allFQC/rawReads/metrics.csv", smpl=sampleids),
+        #expand(outpath+"/sampleFiles/{smpl}/trimedReads/{smpl}_R1_trim.fastq.gz", smpl=sampleids),
+        #expand(outpath+"/sampleFiles/{smpl}/trimedReads/{smpl}_R2_trim.fastq.gz", smpl=sampleids),
         expand(outpath+"/sampleFiles/{smpl}/fastqc/trimed/{smpl}_R1_trim_px_fastqc.zip", smpl=sampleids),
         expand(outpath+"/sampleFiles/{smpl}/fastqc/trimed/{smpl}_R2_trim_px_fastqc.zip", smpl=sampleids),
         expand(outpath+"/batchReports/allFQC/trimed/metrics.csv", smpl=sampleids),
@@ -115,12 +115,12 @@ rule phix_bowtie2:
     output:
         outpath+"/sampleFiles/{smpl}/trimedReads/{smpl}_R1_trim_px.fastq.gz",
         outpath+"/sampleFiles/{smpl}/trimedReads/{smpl}_R2_trim_px.fastq.gz",
-        outpath+"/{smpl}_phix.sam",
-        temp(outpath+"/{smpl}_phix.out")
+        outpath+"/sampleFiles/{smpl}/trimedReads/{smpl}_phix.sam",
+        temp(outpath+"/sampleFiles/{smpl}/trimedReads/{smpl}_phix.out")
     params:
         fq = outpath+"/sampleFiles/{smpl}/trimedReads/{smpl}_R%_trim_px.fastq.gz",
         db = "snakeprograms/databases/phix/Bowtie2Index/genome",
-	sm = outpath+"/sampleFiles/{smpl}/trimedReads/{smpl}_phix.sam",
+	    sm = outpath+"/sampleFiles/{smpl}/trimedReads/{smpl}_phix.sam",
         ot = outpath+"/sampleFiles/{smpl}/trimedReads/{smpl}_phix.out"
     conda:
         "snakeprograms/ymlfiles/bowtie2.yml"
