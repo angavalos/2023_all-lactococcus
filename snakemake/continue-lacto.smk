@@ -4,18 +4,20 @@ import glob
 #today = date.today().strftime("%Y%b%d")
 
 topath = "/group/weimergrp/aavalos7/projects/all-lactococcus/sra-lactococcus.smk"
-inpath = "/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/" #where your successful trims are
+inpath = "/group/weimergrp2/genomes/lactococcus/raw-reads2" #where your genome sequences are
+trimpath = "/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles" #where your successful trims are
 outpath = "/group/weimergrp2/genomes/lactococcus/analysis" #where you want output files
         ## edit number of threads you wish to give shovill (usually 4)
 
-sampleids=["BCW-000212"]
+#sampleids=["BCW-000212"]
+sampleids=[]
 totalids=[]
-#for name in os.listdir(inpath):
-#    totalids.append(name)
-#    if name not in sampleids and (os.path.isfile(inpath+name+"/trimedReads/"+name+"_R1_trim.fastq.gz")) == True \
-#    and (os.path.isfile(inpath+name+"/trimedReads/"+name+"_R1_trim.fastq.gz")) == True:
-#        sampleids.append(name)
-#print("Total: ",len(totalids))
+for name in os.listdir(trimpath):
+    totalids.append(name)
+    if name not in sampleids and (os.path.isfile(trimpath+"/"+name+"/trimedReads/"+name+"_R1_trim_px.fastq.gz")) == True \
+    and (os.path.isfile(trimpath+"/"+name+"/trimedReads/"+name+"_R2_trim_px.fastq.gz")) == True:
+        sampleids.append(name)
+print("Total: ",len(totalids))
 print("Successful Trim: ",len(sampleids))
 print(sampleids)
 
