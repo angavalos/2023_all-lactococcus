@@ -28,12 +28,12 @@ rule all:
     input:
         expand(outpath+"/sampleFiles/{smpl}/fastqc/rawReads/{smpl}_1_fastqc.zip", smpl=sampleids),
         expand(outpath+"/sampleFiles/{smpl}/fastqc/rawReads/{smpl}_2_fastqc.zip", smpl=sampleids),
-        expand(outpath+"/batchReports/allFQC/rawReads/metrics.csv", smpl=sampleids),
+        #expand(outpath+"/batchReports/allFQC/rawReads/metrics.csv", smpl=sampleids),
         expand(outpath+"/sampleFiles/{smpl}/trimedReads/{smpl}_R1_trim.fastq.gz", smpl=sampleids),
         expand(outpath+"/sampleFiles/{smpl}/trimedReads/{smpl}_R2_trim.fastq.gz", smpl=sampleids),
         expand(outpath+"/sampleFiles/{smpl}/fastqc/trimed/{smpl}_R1_trim_px_fastqc.zip", smpl=sampleids),
         expand(outpath+"/sampleFiles/{smpl}/fastqc/trimed/{smpl}_R2_trim_px_fastqc.zip", smpl=sampleids),
-        expand(outpath+"/batchReports/allFQC/trimed/metrics.csv", smpl=sampleids),
+        #expand(outpath+"/batchReports/allFQC/trimed/metrics.csv", smpl=sampleids),
 
         #expand(outpath+"/sampleFiles/{smpl}/shovill/contigs.fa", smpl=sampleids),
         ## note CheckM requires 40GB of RAM
