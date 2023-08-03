@@ -18,26 +18,26 @@ for i in os.listdir(genomefiles):
 ##### START #####
 rule all:
     input:    
-        expand(outpath+"{smpl}/{smpl}_1.fq",smpl=sampleids),
-        expand(outpath+"{smpl}/{smpl}_2.fq",smpl=sampleids),
-        expand(outpath+"{smpl}/{smpl}_1.aln",smpl=sampleids),
-        expand(outpath+"{smpl}/{smpl}_2.aln",smpl=sampleids)
+        expand(outpath+"{smpl}_1.fq",smpl=sampleids),
+        expand(outpath+"{smpl}_2.fq",smpl=sampleids),
+        expand(outpath+"{smpl}_1.aln",smpl=sampleids),
+        expand(outpath+"{smpl}_2.aln",smpl=sampleids)
 
 rule art:
     input:
         in1 = genomefiles+"{smpl}"
     output:
-        outpath+"{smpl}/{smpl}_1.fq",
-        outpath+"{smpl}/{smpl}_2.fq",
-        outpath+"{smpl}/{smpl}_1.aln",
-        outpath+"{smpl}/{smpl}_2.aln"
+        outpath+"{smpl}_1.fq",
+        outpath+"{smpl}_2.fq",
+        outpath+"{smpl}_1.aln",
+        outpath+"{smpl}_2.aln"
     params:
         p1 = "HS25",
         p2 = 150,
         p3 = 50,
         p4 = 450,
         p5 = 45,
-        p6 = outpath+"{smpl}/{smpl}_"
+        p6 = outpath+"{smpl}_"
     conda:
         "snakeprograms/ymlfiles/art.yml"
     shell:

@@ -7,8 +7,8 @@
 #SBATCH -e /group/weimergrp/aavalos7/projects/all-lactococcus/err-out-files/art-simulations.j%j.err                   # STANDARD ERROR FILE TO WRITE TO
 #SBATCH -o /group/weimergrp/aavalos7/projects/all-lactococcus/err-out-files/art-simulations.j%j.out                   # STANDARD OUTPUT FILE TO WRITE TO
 #SBATCH -c 1                                    # NUMBER OF PROCESSORS PER TASK
-#SBATCH --mem=8Gb                               # MEMORY POOL TO ALL CORES
-#SBATCH --time=00-24:00:00                      # REQUESTED WALL TIME
+#SBATCH --mem=1Gb                               # MEMORY POOL TO ALL CORES
+#SBATCH --time=00-1:00:00                      # REQUESTED WALL TIME
 #SBATCH -p high                                # PARTITION TO SUBMIT TO
 
 # initialize conda
