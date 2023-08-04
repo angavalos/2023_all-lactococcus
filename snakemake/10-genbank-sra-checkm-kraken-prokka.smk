@@ -195,7 +195,7 @@ rule checkm:
     output:
         outpath+"/sampleFiles/{smpl}/checkm/storage/bin_stats_ext.tsv"
     params:
-        p1 = inpath,
+        p1 = inpath+"/{smpl}",
         p2 = outpath+"/sampleFiles/{smpl}/checkm"
     conda:
         "snakeprograms/ymlfiles/checkm.yml"
