@@ -18,7 +18,7 @@ INFILE=/group/weimergrp/aavalos7/projects/all-lactococcus/20230804_genbank-sra-a
 OUTDIR=/group/weimergrp2/genomes/lactococcus/20230803_compare-genbank-sra-art/population/panaroo-sensitive-30-genbank-sra-art
 
 conda activate panaroo
-panaroo -i $INFILE -o $OUTDIR --clean-mode sensitive --core_threshold 0.99 -t 10
+panaroo -i $INFILE -o $OUTDIR --clean-mode sensitive --alignment core --aligner mafft --core_threshold 0.99 -t 10
 
 # Print out final statistics about resource use before job exits
 scontrol show job ${SLURM_JOB_ID}
