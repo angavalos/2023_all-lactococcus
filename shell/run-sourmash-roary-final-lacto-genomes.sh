@@ -15,7 +15,7 @@
 . ~/miniconda3/etc/profile.d/conda.sh
 
 conda activate snakemake
-snakemake -s sourmash-roary-30-genbank-sra-art-comparison.smk --use-conda --cores 8 --latency-wait 30 -k
+snakemake -s sourmash-roary-final-lacto-genomes.smk --use-conda --cores 8 --latency-wait 30 -k
 
 # Print out final statistics about resource use before job exits
 scontrol show job ${SLURM_JOB_ID}
