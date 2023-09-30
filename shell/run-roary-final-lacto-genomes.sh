@@ -7,7 +7,7 @@
 #SBATCH -e /group/weimergrp/aavalos7/projects/all-lactococcus/err-out-files/roary-final-lacto-genomes.j%j.err                   # STANDARD ERROR FILE TO WRITE TO
 #SBATCH -o /group/weimergrp/aavalos7/projects/all-lactococcus/err-out-files/roary-final-lacto-genomes.j%j.out                   # STANDARD OUTPUT FILE TO WRITE TO
 #SBATCH -c 8                                    # NUMBER OF PROCESSORS PER TASK
-#SBATCH --mem=8Gb                               # MEMORY POOL TO ALL CORES
+#SBATCH --mem=32Gb                               # MEMORY POOL TO ALL CORES
 #SBATCH --time=03-00:00:00                      # REQUESTED WALL TIME
 #SBATCH -p high                                # PARTITION TO SUBMIT TO
 

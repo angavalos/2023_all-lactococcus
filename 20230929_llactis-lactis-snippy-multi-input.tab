@@ -1,0 +1,535 @@
+BCW_200051	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW_200051/trimedReads/BCW_200051_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW_200051/trimedReads/BCW_200051_R2_trim_px.fastq.gz
+BCW_200077	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW_200077/trimedReads/BCW_200077_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW_200077/trimedReads/BCW_200077_R2_trim_px.fastq.gz
+BCW_200121	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW_200121/trimedReads/BCW_200121_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW_200121/trimedReads/BCW_200121_R2_trim_px.fastq.gz
+BCW_200128	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW_200128/trimedReads/BCW_200128_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW_200128/trimedReads/BCW_200128_R2_trim_px.fastq.gz
+BCW_200138	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW_200138/trimedReads/BCW_200138_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW_200138/trimedReads/BCW_200138_R2_trim_px.fastq.gz
+BCW_200150	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW_200150/trimedReads/BCW_200150_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW_200150/trimedReads/BCW_200150_R2_trim_px.fastq.gz
+BCW_200175	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW_200175/trimedReads/BCW_200175_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW_200175/trimedReads/BCW_200175_R2_trim_px.fastq.gz
+BCW_200180	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW_200180/trimedReads/BCW_200180_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW_200180/trimedReads/BCW_200180_R2_trim_px.fastq.gz
+BCW_200188	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW_200188/trimedReads/BCW_200188_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW_200188/trimedReads/BCW_200188_R2_trim_px.fastq.gz
+BCW_200192	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW_200192/trimedReads/BCW_200192_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW_200192/trimedReads/BCW_200192_R2_trim_px.fastq.gz
+BCW_200196	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW_200196/trimedReads/BCW_200196_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW_200196/trimedReads/BCW_200196_R2_trim_px.fastq.gz
+BCW_200198	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW_200198/trimedReads/BCW_200198_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW_200198/trimedReads/BCW_200198_R2_trim_px.fastq.gz
+BCW_200229	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW_200229/trimedReads/BCW_200229_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW_200229/trimedReads/BCW_200229_R2_trim_px.fastq.gz
+BCW_200232	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW_200232/trimedReads/BCW_200232_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW_200232/trimedReads/BCW_200232_R2_trim_px.fastq.gz
+BCW_200238	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW_200238/trimedReads/BCW_200238_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW_200238/trimedReads/BCW_200238_R2_trim_px.fastq.gz
+BCW_200241	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW_200241/trimedReads/BCW_200241_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW_200241/trimedReads/BCW_200241_R2_trim_px.fastq.gz
+BCW_201453	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW_201453/trimedReads/BCW_201453_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW_201453/trimedReads/BCW_201453_R2_trim_px.fastq.gz
+BCW_201861	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW_201861/trimedReads/BCW_201861_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW_201861/trimedReads/BCW_201861_R2_trim_px.fastq.gz
+BCW-000212	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000212/trimedReads/BCW-000212_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000212/trimedReads/BCW-000212_R2_trim_px.fastq.gz
+BCW-000213	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000213/trimedReads/BCW-000213_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000213/trimedReads/BCW-000213_R2_trim_px.fastq.gz
+BCW-000214	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000214/trimedReads/BCW-000214_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000214/trimedReads/BCW-000214_R2_trim_px.fastq.gz
+BCW-000215	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000215/trimedReads/BCW-000215_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000215/trimedReads/BCW-000215_R2_trim_px.fastq.gz
+BCW-000216	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000216/trimedReads/BCW-000216_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000216/trimedReads/BCW-000216_R2_trim_px.fastq.gz
+BCW-000217	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000217/trimedReads/BCW-000217_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000217/trimedReads/BCW-000217_R2_trim_px.fastq.gz
+BCW-000218	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000218/trimedReads/BCW-000218_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000218/trimedReads/BCW-000218_R2_trim_px.fastq.gz
+BCW-000219	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000219/trimedReads/BCW-000219_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000219/trimedReads/BCW-000219_R2_trim_px.fastq.gz
+BCW-000220	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000220/trimedReads/BCW-000220_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000220/trimedReads/BCW-000220_R2_trim_px.fastq.gz
+BCW-000270	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000270/trimedReads/BCW-000270_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000270/trimedReads/BCW-000270_R2_trim_px.fastq.gz
+BCW-000273	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000273/trimedReads/BCW-000273_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000273/trimedReads/BCW-000273_R2_trim_px.fastq.gz
+BCW-000275	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000275/trimedReads/BCW-000275_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000275/trimedReads/BCW-000275_R2_trim_px.fastq.gz
+BCW-000446	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000446/trimedReads/BCW-000446_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000446/trimedReads/BCW-000446_R2_trim_px.fastq.gz
+BCW-000486	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000486/trimedReads/BCW-000486_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000486/trimedReads/BCW-000486_R2_trim_px.fastq.gz
+BCW-000490	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000490/trimedReads/BCW-000490_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000490/trimedReads/BCW-000490_R2_trim_px.fastq.gz
+BCW-000608	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000608/trimedReads/BCW-000608_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000608/trimedReads/BCW-000608_R2_trim_px.fastq.gz
+BCW-000609	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000609/trimedReads/BCW-000609_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000609/trimedReads/BCW-000609_R2_trim_px.fastq.gz
+BCW-000631	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000631/trimedReads/BCW-000631_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000631/trimedReads/BCW-000631_R2_trim_px.fastq.gz
+BCW-000689	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000689/trimedReads/BCW-000689_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000689/trimedReads/BCW-000689_R2_trim_px.fastq.gz
+BCW-000728	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000728/trimedReads/BCW-000728_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000728/trimedReads/BCW-000728_R2_trim_px.fastq.gz
+BCW-000729	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000729/trimedReads/BCW-000729_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000729/trimedReads/BCW-000729_R2_trim_px.fastq.gz
+BCW-000737	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000737/trimedReads/BCW-000737_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/BCW-000737/trimedReads/BCW-000737_R2_trim_px.fastq.gz
+ERR440784	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/ERR440784/trimedReads/ERR440784_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/ERR440784/trimedReads/ERR440784_R2_trim_px.fastq.gz
+ERR440785	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/ERR440785/trimedReads/ERR440785_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/ERR440785/trimedReads/ERR440785_R2_trim_px.fastq.gz
+ERR440786	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/ERR440786/trimedReads/ERR440786_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/ERR440786/trimedReads/ERR440786_R2_trim_px.fastq.gz
+ERR440787	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/ERR440787/trimedReads/ERR440787_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/ERR440787/trimedReads/ERR440787_R2_trim_px.fastq.gz
+ERR440988	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/ERR440988/trimedReads/ERR440988_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/ERR440988/trimedReads/ERR440988_R2_trim_px.fastq.gz
+ERR440989	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/ERR440989/trimedReads/ERR440989_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/ERR440989/trimedReads/ERR440989_R2_trim_px.fastq.gz
+ERR440990	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/ERR440990/trimedReads/ERR440990_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/ERR440990/trimedReads/ERR440990_R2_trim_px.fastq.gz
+ERR440991	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/ERR440991/trimedReads/ERR440991_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/ERR440991/trimedReads/ERR440991_R2_trim_px.fastq.gz
+ERR440992	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/ERR440992/trimedReads/ERR440992_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/ERR440992/trimedReads/ERR440992_R2_trim_px.fastq.gz
+ERR440993	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/ERR440993/trimedReads/ERR440993_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/ERR440993/trimedReads/ERR440993_R2_trim_px.fastq.gz
+ERR440994	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/ERR440994/trimedReads/ERR440994_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/ERR440994/trimedReads/ERR440994_R2_trim_px.fastq.gz
+ERR5210561	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/ERR5210561/trimedReads/ERR5210561_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/ERR5210561/trimedReads/ERR5210561_R2_trim_px.fastq.gz
+ERR5213442	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/ERR5213442/trimedReads/ERR5213442_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/ERR5213442/trimedReads/ERR5213442_R2_trim_px.fastq.gz
+ERR5213443	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/ERR5213443/trimedReads/ERR5213443_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/ERR5213443/trimedReads/ERR5213443_R2_trim_px.fastq.gz
+ERR5213444	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/ERR5213444/trimedReads/ERR5213444_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/ERR5213444/trimedReads/ERR5213444_R2_trim_px.fastq.gz
+ERR5213445	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/ERR5213445/trimedReads/ERR5213445_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/ERR5213445/trimedReads/ERR5213445_R2_trim_px.fastq.gz
+ERR5213446	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/ERR5213446/trimedReads/ERR5213446_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/ERR5213446/trimedReads/ERR5213446_R2_trim_px.fastq.gz
+ERR5213447	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/ERR5213447/trimedReads/ERR5213447_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/ERR5213447/trimedReads/ERR5213447_R2_trim_px.fastq.gz
+ERR5213449	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/ERR5213449/trimedReads/ERR5213449_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/ERR5213449/trimedReads/ERR5213449_R2_trim_px.fastq.gz
+ERR5213450	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/ERR5213450/trimedReads/ERR5213450_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/ERR5213450/trimedReads/ERR5213450_R2_trim_px.fastq.gz
+ERR5213451	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/ERR5213451/trimedReads/ERR5213451_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/ERR5213451/trimedReads/ERR5213451_R2_trim_px.fastq.gz
+ERR5213452	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/ERR5213452/trimedReads/ERR5213452_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/ERR5213452/trimedReads/ERR5213452_R2_trim_px.fastq.gz
+ERR5213453	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/ERR5213453/trimedReads/ERR5213453_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/ERR5213453/trimedReads/ERR5213453_R2_trim_px.fastq.gz
+ERR5213454	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/ERR5213454/trimedReads/ERR5213454_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/ERR5213454/trimedReads/ERR5213454_R2_trim_px.fastq.gz
+ERR5213455	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/ERR5213455/trimedReads/ERR5213455_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/ERR5213455/trimedReads/ERR5213455_R2_trim_px.fastq.gz
+ERR5213456	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/ERR5213456/trimedReads/ERR5213456_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/ERR5213456/trimedReads/ERR5213456_R2_trim_px.fastq.gz
+ERR5213457	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/ERR5213457/trimedReads/ERR5213457_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/ERR5213457/trimedReads/ERR5213457_R2_trim_px.fastq.gz
+ERR5213458	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/ERR5213458/trimedReads/ERR5213458_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/ERR5213458/trimedReads/ERR5213458_R2_trim_px.fastq.gz
+ERR5213464	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/ERR5213464/trimedReads/ERR5213464_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/ERR5213464/trimedReads/ERR5213464_R2_trim_px.fastq.gz
+SRR10261584	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR10261584/trimedReads/SRR10261584_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR10261584/trimedReads/SRR10261584_R2_trim_px.fastq.gz
+SRR10442246	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR10442246/trimedReads/SRR10442246_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR10442246/trimedReads/SRR10442246_R2_trim_px.fastq.gz
+SRR11043519	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR11043519/trimedReads/SRR11043519_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR11043519/trimedReads/SRR11043519_R2_trim_px.fastq.gz
+SRR11043894	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR11043894/trimedReads/SRR11043894_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR11043894/trimedReads/SRR11043894_R2_trim_px.fastq.gz
+SRR11051661	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR11051661/trimedReads/SRR11051661_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR11051661/trimedReads/SRR11051661_R2_trim_px.fastq.gz
+SRR11051663	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR11051663/trimedReads/SRR11051663_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR11051663/trimedReads/SRR11051663_R2_trim_px.fastq.gz
+SRR11053525	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR11053525/trimedReads/SRR11053525_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR11053525/trimedReads/SRR11053525_R2_trim_px.fastq.gz
+SRR11053550	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR11053550/trimedReads/SRR11053550_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR11053550/trimedReads/SRR11053550_R2_trim_px.fastq.gz
+SRR11713469	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR11713469/trimedReads/SRR11713469_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR11713469/trimedReads/SRR11713469_R2_trim_px.fastq.gz
+SRR11713470	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR11713470/trimedReads/SRR11713470_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR11713470/trimedReads/SRR11713470_R2_trim_px.fastq.gz
+SRR11713471	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR11713471/trimedReads/SRR11713471_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR11713471/trimedReads/SRR11713471_R2_trim_px.fastq.gz
+SRR11713472	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR11713472/trimedReads/SRR11713472_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR11713472/trimedReads/SRR11713472_R2_trim_px.fastq.gz
+SRR11910184	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR11910184/trimedReads/SRR11910184_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR11910184/trimedReads/SRR11910184_R2_trim_px.fastq.gz
+SRR11910188	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR11910188/trimedReads/SRR11910188_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR11910188/trimedReads/SRR11910188_R2_trim_px.fastq.gz
+SRR11910211	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR11910211/trimedReads/SRR11910211_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR11910211/trimedReads/SRR11910211_R2_trim_px.fastq.gz
+SRR11910252	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR11910252/trimedReads/SRR11910252_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR11910252/trimedReads/SRR11910252_R2_trim_px.fastq.gz
+SRR11910263	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR11910263/trimedReads/SRR11910263_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR11910263/trimedReads/SRR11910263_R2_trim_px.fastq.gz
+SRR11910277	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR11910277/trimedReads/SRR11910277_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR11910277/trimedReads/SRR11910277_R2_trim_px.fastq.gz
+SRR11910346	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR11910346/trimedReads/SRR11910346_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR11910346/trimedReads/SRR11910346_R2_trim_px.fastq.gz
+SRR11910372	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR11910372/trimedReads/SRR11910372_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR11910372/trimedReads/SRR11910372_R2_trim_px.fastq.gz
+SRR11910386	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR11910386/trimedReads/SRR11910386_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR11910386/trimedReads/SRR11910386_R2_trim_px.fastq.gz
+SRR11910394	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR11910394/trimedReads/SRR11910394_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR11910394/trimedReads/SRR11910394_R2_trim_px.fastq.gz
+SRR11910402	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR11910402/trimedReads/SRR11910402_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR11910402/trimedReads/SRR11910402_R2_trim_px.fastq.gz
+SRR12045687	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR12045687/trimedReads/SRR12045687_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR12045687/trimedReads/SRR12045687_R2_trim_px.fastq.gz
+SRR12047208	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR12047208/trimedReads/SRR12047208_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR12047208/trimedReads/SRR12047208_R2_trim_px.fastq.gz
+SRR12047216	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR12047216/trimedReads/SRR12047216_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR12047216/trimedReads/SRR12047216_R2_trim_px.fastq.gz
+SRR12047226	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR12047226/trimedReads/SRR12047226_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR12047226/trimedReads/SRR12047226_R2_trim_px.fastq.gz
+SRR12762902	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR12762902/trimedReads/SRR12762902_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR12762902/trimedReads/SRR12762902_R2_trim_px.fastq.gz
+SRR12826189	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR12826189/trimedReads/SRR12826189_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR12826189/trimedReads/SRR12826189_R2_trim_px.fastq.gz
+SRR13170739	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR13170739/trimedReads/SRR13170739_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR13170739/trimedReads/SRR13170739_R2_trim_px.fastq.gz
+SRR13214403	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR13214403/trimedReads/SRR13214403_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR13214403/trimedReads/SRR13214403_R2_trim_px.fastq.gz
+SRR13214404	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR13214404/trimedReads/SRR13214404_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR13214404/trimedReads/SRR13214404_R2_trim_px.fastq.gz
+SRR13648751	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR13648751/trimedReads/SRR13648751_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR13648751/trimedReads/SRR13648751_R2_trim_px.fastq.gz
+SRR13649363	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR13649363/trimedReads/SRR13649363_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR13649363/trimedReads/SRR13649363_R2_trim_px.fastq.gz
+SRR13955747	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR13955747/trimedReads/SRR13955747_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR13955747/trimedReads/SRR13955747_R2_trim_px.fastq.gz
+SRR14682918	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR14682918/trimedReads/SRR14682918_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR14682918/trimedReads/SRR14682918_R2_trim_px.fastq.gz
+SRR14682956	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR14682956/trimedReads/SRR14682956_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR14682956/trimedReads/SRR14682956_R2_trim_px.fastq.gz
+SRR14690701	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR14690701/trimedReads/SRR14690701_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR14690701/trimedReads/SRR14690701_R2_trim_px.fastq.gz
+SRR15171203	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR15171203/trimedReads/SRR15171203_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR15171203/trimedReads/SRR15171203_R2_trim_px.fastq.gz
+SRR16993379	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR16993379/trimedReads/SRR16993379_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR16993379/trimedReads/SRR16993379_R2_trim_px.fastq.gz
+SRR16994512	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR16994512/trimedReads/SRR16994512_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR16994512/trimedReads/SRR16994512_R2_trim_px.fastq.gz
+SRR21002672	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR21002672/trimedReads/SRR21002672_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR21002672/trimedReads/SRR21002672_R2_trim_px.fastq.gz
+SRR21002674	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR21002674/trimedReads/SRR21002674_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR21002674/trimedReads/SRR21002674_R2_trim_px.fastq.gz
+SRR21002675	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR21002675/trimedReads/SRR21002675_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR21002675/trimedReads/SRR21002675_R2_trim_px.fastq.gz
+SRR21002676	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR21002676/trimedReads/SRR21002676_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR21002676/trimedReads/SRR21002676_R2_trim_px.fastq.gz
+SRR21002678	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR21002678/trimedReads/SRR21002678_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR21002678/trimedReads/SRR21002678_R2_trim_px.fastq.gz
+SRR21002679	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR21002679/trimedReads/SRR21002679_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR21002679/trimedReads/SRR21002679_R2_trim_px.fastq.gz
+SRR21002795	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR21002795/trimedReads/SRR21002795_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR21002795/trimedReads/SRR21002795_R2_trim_px.fastq.gz
+SRR21423900	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR21423900/trimedReads/SRR21423900_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR21423900/trimedReads/SRR21423900_R2_trim_px.fastq.gz
+SRR24651260	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR24651260/trimedReads/SRR24651260_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR24651260/trimedReads/SRR24651260_R2_trim_px.fastq.gz
+SRR4136221	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR4136221/trimedReads/SRR4136221_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR4136221/trimedReads/SRR4136221_R2_trim_px.fastq.gz
+SRR5182767	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5182767/trimedReads/SRR5182767_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5182767/trimedReads/SRR5182767_R2_trim_px.fastq.gz
+SRR5182768	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5182768/trimedReads/SRR5182768_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5182768/trimedReads/SRR5182768_R2_trim_px.fastq.gz
+SRR5182770	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5182770/trimedReads/SRR5182770_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5182770/trimedReads/SRR5182770_R2_trim_px.fastq.gz
+SRR5310864	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5310864/trimedReads/SRR5310864_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5310864/trimedReads/SRR5310864_R2_trim_px.fastq.gz
+SRR5886994	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5886994/trimedReads/SRR5886994_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5886994/trimedReads/SRR5886994_R2_trim_px.fastq.gz
+SRR5886996	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5886996/trimedReads/SRR5886996_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5886996/trimedReads/SRR5886996_R2_trim_px.fastq.gz
+SRR5887015	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5887015/trimedReads/SRR5887015_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5887015/trimedReads/SRR5887015_R2_trim_px.fastq.gz
+SRR5887026	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5887026/trimedReads/SRR5887026_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5887026/trimedReads/SRR5887026_R2_trim_px.fastq.gz
+SRR5887032	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5887032/trimedReads/SRR5887032_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5887032/trimedReads/SRR5887032_R2_trim_px.fastq.gz
+SRR5887036	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5887036/trimedReads/SRR5887036_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5887036/trimedReads/SRR5887036_R2_trim_px.fastq.gz
+SRR5887048	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5887048/trimedReads/SRR5887048_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5887048/trimedReads/SRR5887048_R2_trim_px.fastq.gz
+SRR5887051	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5887051/trimedReads/SRR5887051_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5887051/trimedReads/SRR5887051_R2_trim_px.fastq.gz
+SRR5887071	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5887071/trimedReads/SRR5887071_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5887071/trimedReads/SRR5887071_R2_trim_px.fastq.gz
+SRR5887072	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5887072/trimedReads/SRR5887072_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5887072/trimedReads/SRR5887072_R2_trim_px.fastq.gz
+SRR5887073	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5887073/trimedReads/SRR5887073_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5887073/trimedReads/SRR5887073_R2_trim_px.fastq.gz
+SRR5887074	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5887074/trimedReads/SRR5887074_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5887074/trimedReads/SRR5887074_R2_trim_px.fastq.gz
+SRR5887075	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5887075/trimedReads/SRR5887075_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5887075/trimedReads/SRR5887075_R2_trim_px.fastq.gz
+SRR5887076	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5887076/trimedReads/SRR5887076_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5887076/trimedReads/SRR5887076_R2_trim_px.fastq.gz
+SRR5887077	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5887077/trimedReads/SRR5887077_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5887077/trimedReads/SRR5887077_R2_trim_px.fastq.gz
+SRR5887091	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5887091/trimedReads/SRR5887091_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5887091/trimedReads/SRR5887091_R2_trim_px.fastq.gz
+SRR5887092	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5887092/trimedReads/SRR5887092_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5887092/trimedReads/SRR5887092_R2_trim_px.fastq.gz
+SRR5887105	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5887105/trimedReads/SRR5887105_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5887105/trimedReads/SRR5887105_R2_trim_px.fastq.gz
+SRR5887129	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5887129/trimedReads/SRR5887129_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5887129/trimedReads/SRR5887129_R2_trim_px.fastq.gz
+SRR5887130	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5887130/trimedReads/SRR5887130_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5887130/trimedReads/SRR5887130_R2_trim_px.fastq.gz
+SRR5887201	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5887201/trimedReads/SRR5887201_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5887201/trimedReads/SRR5887201_R2_trim_px.fastq.gz
+SRR5887202	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5887202/trimedReads/SRR5887202_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5887202/trimedReads/SRR5887202_R2_trim_px.fastq.gz
+SRR5887216	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5887216/trimedReads/SRR5887216_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5887216/trimedReads/SRR5887216_R2_trim_px.fastq.gz
+SRR5887217	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5887217/trimedReads/SRR5887217_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5887217/trimedReads/SRR5887217_R2_trim_px.fastq.gz
+SRR5887218	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5887218/trimedReads/SRR5887218_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5887218/trimedReads/SRR5887218_R2_trim_px.fastq.gz
+SRR5887227	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5887227/trimedReads/SRR5887227_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5887227/trimedReads/SRR5887227_R2_trim_px.fastq.gz
+SRR5887228	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5887228/trimedReads/SRR5887228_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5887228/trimedReads/SRR5887228_R2_trim_px.fastq.gz
+SRR5887241	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5887241/trimedReads/SRR5887241_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5887241/trimedReads/SRR5887241_R2_trim_px.fastq.gz
+SRR5887244	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5887244/trimedReads/SRR5887244_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5887244/trimedReads/SRR5887244_R2_trim_px.fastq.gz
+SRR5887245	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5887245/trimedReads/SRR5887245_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5887245/trimedReads/SRR5887245_R2_trim_px.fastq.gz
+SRR5887250	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5887250/trimedReads/SRR5887250_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5887250/trimedReads/SRR5887250_R2_trim_px.fastq.gz
+SRR5887251	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5887251/trimedReads/SRR5887251_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5887251/trimedReads/SRR5887251_R2_trim_px.fastq.gz
+SRR5887253	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5887253/trimedReads/SRR5887253_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5887253/trimedReads/SRR5887253_R2_trim_px.fastq.gz
+SRR5887254	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5887254/trimedReads/SRR5887254_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5887254/trimedReads/SRR5887254_R2_trim_px.fastq.gz
+SRR5887255	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5887255/trimedReads/SRR5887255_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5887255/trimedReads/SRR5887255_R2_trim_px.fastq.gz
+SRR5887256	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5887256/trimedReads/SRR5887256_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5887256/trimedReads/SRR5887256_R2_trim_px.fastq.gz
+SRR5887257	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5887257/trimedReads/SRR5887257_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5887257/trimedReads/SRR5887257_R2_trim_px.fastq.gz
+SRR5887259	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5887259/trimedReads/SRR5887259_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5887259/trimedReads/SRR5887259_R2_trim_px.fastq.gz
+SRR5887260	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5887260/trimedReads/SRR5887260_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5887260/trimedReads/SRR5887260_R2_trim_px.fastq.gz
+SRR5887261	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5887261/trimedReads/SRR5887261_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5887261/trimedReads/SRR5887261_R2_trim_px.fastq.gz
+SRR5887263	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5887263/trimedReads/SRR5887263_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5887263/trimedReads/SRR5887263_R2_trim_px.fastq.gz
+SRR5887264	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5887264/trimedReads/SRR5887264_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5887264/trimedReads/SRR5887264_R2_trim_px.fastq.gz
+SRR5887265	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5887265/trimedReads/SRR5887265_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5887265/trimedReads/SRR5887265_R2_trim_px.fastq.gz
+SRR5887266	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5887266/trimedReads/SRR5887266_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5887266/trimedReads/SRR5887266_R2_trim_px.fastq.gz
+SRR5887267	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5887267/trimedReads/SRR5887267_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5887267/trimedReads/SRR5887267_R2_trim_px.fastq.gz
+SRR5887270	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5887270/trimedReads/SRR5887270_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5887270/trimedReads/SRR5887270_R2_trim_px.fastq.gz
+SRR5887271	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5887271/trimedReads/SRR5887271_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5887271/trimedReads/SRR5887271_R2_trim_px.fastq.gz
+SRR5887285	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5887285/trimedReads/SRR5887285_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5887285/trimedReads/SRR5887285_R2_trim_px.fastq.gz
+SRR5887286	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5887286/trimedReads/SRR5887286_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5887286/trimedReads/SRR5887286_R2_trim_px.fastq.gz
+SRR5887287	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5887287/trimedReads/SRR5887287_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5887287/trimedReads/SRR5887287_R2_trim_px.fastq.gz
+SRR5887288	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5887288/trimedReads/SRR5887288_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5887288/trimedReads/SRR5887288_R2_trim_px.fastq.gz
+SRR5887289	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5887289/trimedReads/SRR5887289_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5887289/trimedReads/SRR5887289_R2_trim_px.fastq.gz
+SRR5887290	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5887290/trimedReads/SRR5887290_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5887290/trimedReads/SRR5887290_R2_trim_px.fastq.gz
+SRR5887291	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5887291/trimedReads/SRR5887291_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5887291/trimedReads/SRR5887291_R2_trim_px.fastq.gz
+SRR5887292	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5887292/trimedReads/SRR5887292_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5887292/trimedReads/SRR5887292_R2_trim_px.fastq.gz
+SRR5887293	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5887293/trimedReads/SRR5887293_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5887293/trimedReads/SRR5887293_R2_trim_px.fastq.gz
+SRR5887298	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5887298/trimedReads/SRR5887298_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5887298/trimedReads/SRR5887298_R2_trim_px.fastq.gz
+SRR5887307	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5887307/trimedReads/SRR5887307_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5887307/trimedReads/SRR5887307_R2_trim_px.fastq.gz
+SRR5887308	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5887308/trimedReads/SRR5887308_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5887308/trimedReads/SRR5887308_R2_trim_px.fastq.gz
+SRR5887319	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5887319/trimedReads/SRR5887319_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5887319/trimedReads/SRR5887319_R2_trim_px.fastq.gz
+SRR5887321	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5887321/trimedReads/SRR5887321_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5887321/trimedReads/SRR5887321_R2_trim_px.fastq.gz
+SRR5887323	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5887323/trimedReads/SRR5887323_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR5887323/trimedReads/SRR5887323_R2_trim_px.fastq.gz
+SRR6331546	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR6331546/trimedReads/SRR6331546_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR6331546/trimedReads/SRR6331546_R2_trim_px.fastq.gz
+SRR7868294	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR7868294/trimedReads/SRR7868294_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR7868294/trimedReads/SRR7868294_R2_trim_px.fastq.gz
+SRR8043672	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR8043672/trimedReads/SRR8043672_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR8043672/trimedReads/SRR8043672_R2_trim_px.fastq.gz
+SRR8181920	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR8181920/trimedReads/SRR8181920_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR8181920/trimedReads/SRR8181920_R2_trim_px.fastq.gz
+SRR8182677	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR8182677/trimedReads/SRR8182677_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR8182677/trimedReads/SRR8182677_R2_trim_px.fastq.gz
+SRR9283151	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR9283151/trimedReads/SRR9283151_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR9283151/trimedReads/SRR9283151_R2_trim_px.fastq.gz
+SRR9667018	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR9667018/trimedReads/SRR9667018_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR9667018/trimedReads/SRR9667018_R2_trim_px.fastq.gz
+SRR9667019	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR9667019/trimedReads/SRR9667019_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR9667019/trimedReads/SRR9667019_R2_trim_px.fastq.gz
+SRR9667020	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR9667020/trimedReads/SRR9667020_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR9667020/trimedReads/SRR9667020_R2_trim_px.fastq.gz
+SRR9667021	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR9667021/trimedReads/SRR9667021_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR9667021/trimedReads/SRR9667021_R2_trim_px.fastq.gz
+SRR9667022	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR9667022/trimedReads/SRR9667022_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR9667022/trimedReads/SRR9667022_R2_trim_px.fastq.gz
+SRR9667023	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR9667023/trimedReads/SRR9667023_R1_trim_px.fastq.gz	/group/weimergrp2/genomes/lactococcus/analysis/sampleFiles/SRR9667023/trimedReads/SRR9667023_R2_trim_px.fastq.gz
+GCA_016939195.1_ASM1693919v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCA_016939195.1_ASM1693919v1_genomic.fna.gz
+GCA_018381915.1_ASM1838191v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCA_018381915.1_ASM1838191v1_genomic.fna.gz
+GCA_022653355.1_ASM2265335v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCA_022653355.1_ASM2265335v1_genomic.fna.gz
+GCA_022654475.1_ASM2265447v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCA_022654475.1_ASM2265447v1_genomic.fna.gz
+GCA_022654875.1_ASM2265487v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCA_022654875.1_ASM2265487v1_genomic.fna.gz
+GCA_022794425.1_ASM2279442v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCA_022794425.1_ASM2279442v1_genomic.fna.gz
+GCA_022869215.1_ASM2286921v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCA_022869215.1_ASM2286921v1_genomic.fna.gz
+GCA_905210045.1_ERR260195-mag-bin.11_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCA_905210045.1_ERR260195-mag-bin.11_genomic.fna.gz
+GCA_910583905.1_MGBC116396_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCA_910583905.1_MGBC116396_genomic.fna.gz
+GCA_937924215.1_ERR260195_bin.69_CONCOCT_v1.1_MAG_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCA_937924215.1_ERR260195_bin.69_CONCOCT_v1.1_MAG_genomic.fna.gz
+GCF_000006865.1_ASM686v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_000006865.1_ASM686v1_genomic.fna.gz
+GCF_000025045.1_ASM2504v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_000025045.1_ASM2504v1_genomic.fna.gz
+GCF_000192705.1_ASM19270v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_000192705.1_ASM19270v1_genomic.fna.gz
+GCF_000284735.1_ASM28473v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_000284735.1_ASM28473v1_genomic.fna.gz
+GCF_000344575.1_ASM34457v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_000344575.1_ASM34457v1_genomic.fna.gz
+GCF_000348965.1_YF11_v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_000348965.1_YF11_v1_genomic.fna.gz
+GCF_000442845.1_LLA12V1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_000442845.1_LLA12V1_genomic.fna.gz
+GCF_000447905.1_LLDT2.01_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_000447905.1_LLDT2.01_genomic.fna.gz
+GCF_000447985.1_LLDT4.01_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_000447985.1_LLDT4.01_genomic.fna.gz
+GCF_000478255.1_ASM47825v2_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_000478255.1_ASM47825v2_genomic.fna.gz
+GCF_000479375.3_ASM47937v3_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_000479375.3_ASM47937v3_genomic.fna.gz
+GCF_000488975.1_LD61v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_000488975.1_LD61v1_genomic.fna.gz
+GCF_000493355.1_LL-D1-V1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_000493355.1_LL-D1-V1_genomic.fna.gz
+GCF_000615405.1_ASM61540v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_000615405.1_ASM61540v1_genomic.fna.gz
+GCF_000703145.1_ASM70314v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_000703145.1_ASM70314v1_genomic.fna.gz
+GCF_000721865.3_ASM72186v3_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_000721865.3_ASM72186v3_genomic.fna.gz
+GCF_000759595.1_ASM75959v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_000759595.1_ASM75959v1_genomic.fna.gz
+GCF_000761115.1_ASM76111v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_000761115.1_ASM76111v1_genomic.fna.gz
+GCF_000761565.1_ASM76156v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_000761565.1_ASM76156v1_genomic.fna.gz
+GCF_000786755.1_Llactis1AA59_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_000786755.1_Llactis1AA59_genomic.fna.gz
+GCF_000807375.1_ASM80737v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_000807375.1_ASM80737v1_genomic.fna.gz
+GCF_000835975.1_ASM83597v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_000835975.1_ASM83597v1_genomic.fna.gz
+GCF_001017475.1_ASM101747v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_001017475.1_ASM101747v1_genomic.fna.gz
+GCF_001311315.1_ASM131131v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_001311315.1_ASM131131v1_genomic.fna.gz
+GCF_001437565.1_ASM143756v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_001437565.1_ASM143756v1_genomic.fna.gz
+GCF_001455265.1_ASM145526v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_001455265.1_ASM145526v1_genomic.fna.gz
+GCF_001456385.1_ASM145638v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_001456385.1_ASM145638v1_genomic.fna.gz
+GCF_001456455.1_ASM145645v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_001456455.1_ASM145645v1_genomic.fna.gz
+GCF_001456475.1_ASM145647v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_001456475.1_ASM145647v1_genomic.fna.gz
+GCF_001456495.1_ASM145649v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_001456495.1_ASM145649v1_genomic.fna.gz
+GCF_001456505.1_ASM145650v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_001456505.1_ASM145650v1_genomic.fna.gz
+GCF_001456525.1_ASM145652v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_001456525.1_ASM145652v1_genomic.fna.gz
+GCF_001456545.1_ASM145654v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_001456545.1_ASM145654v1_genomic.fna.gz
+GCF_001456575.1_ASM145657v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_001456575.1_ASM145657v1_genomic.fna.gz
+GCF_001456595.1_ASM145659v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_001456595.1_ASM145659v1_genomic.fna.gz
+GCF_001456615.1_ASM145661v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_001456615.1_ASM145661v1_genomic.fna.gz
+GCF_001456625.1_ASM145662v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_001456625.1_ASM145662v1_genomic.fna.gz
+GCF_001456655.1_ASM145665v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_001456655.1_ASM145665v1_genomic.fna.gz
+GCF_001456675.1_ASM145667v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_001456675.1_ASM145667v1_genomic.fna.gz
+GCF_001456685.1_ASM145668v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_001456685.1_ASM145668v1_genomic.fna.gz
+GCF_001456695.1_ASM145669v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_001456695.1_ASM145669v1_genomic.fna.gz
+GCF_001456725.1_ASM145672v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_001456725.1_ASM145672v1_genomic.fna.gz
+GCF_001456755.1_ASM145675v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_001456755.1_ASM145675v1_genomic.fna.gz
+GCF_001456775.1_ASM145677v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_001456775.1_ASM145677v1_genomic.fna.gz
+GCF_001456785.1_ASM145678v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_001456785.1_ASM145678v1_genomic.fna.gz
+GCF_001456795.1_ASM145679v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_001456795.1_ASM145679v1_genomic.fna.gz
+GCF_001456835.1_ASM145683v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_001456835.1_ASM145683v1_genomic.fna.gz
+GCF_001456855.1_ASM145685v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_001456855.1_ASM145685v1_genomic.fna.gz
+GCF_001456865.1_ASM145686v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_001456865.1_ASM145686v1_genomic.fna.gz
+GCF_001514475.1_ASM151447v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_001514475.1_ASM151447v1_genomic.fna.gz
+GCF_001540895.1_ASM154089v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_001540895.1_ASM154089v1_genomic.fna.gz
+GCF_001591725.1_ASM159172v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_001591725.1_ASM159172v1_genomic.fna.gz
+GCF_001622235.1_ASM162223v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_001622235.1_ASM162223v1_genomic.fna.gz
+GCF_001672265.1_Llactis1.0_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_001672265.1_Llactis1.0_genomic.fna.gz
+GCF_001984785.1_ASM198478v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_001984785.1_ASM198478v1_genomic.fna.gz
+GCF_002078415.1_ASM207841v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_002078415.1_ASM207841v1_genomic.fna.gz
+GCF_002078435.1_ASM207843v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_002078435.1_ASM207843v1_genomic.fna.gz
+GCF_002078475.3_ASM207847v3_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_002078475.3_ASM207847v3_genomic.fna.gz
+GCF_002078495.2_ASM207849v2_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_002078495.2_ASM207849v2_genomic.fna.gz
+GCF_002078615.2_ASM207861v2_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_002078615.2_ASM207861v2_genomic.fna.gz
+GCF_002078855.1_ASM207885v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_002078855.1_ASM207885v1_genomic.fna.gz
+GCF_002078975.2_ASM207897v2_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_002078975.2_ASM207897v2_genomic.fna.gz
+GCF_002078995.3_ASM207899v3_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_002078995.3_ASM207899v3_genomic.fna.gz
+GCF_002115705.1_ASM211570v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_002115705.1_ASM211570v1_genomic.fna.gz
+GCF_002148215.1_ASM214821v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_002148215.1_ASM214821v1_genomic.fna.gz
+GCF_002276835.1_ASM227683v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_002276835.1_ASM227683v1_genomic.fna.gz
+GCF_002441785.1_ASM244178v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_002441785.1_ASM244178v1_genomic.fna.gz
+GCF_002441815.1_ASM244181v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_002441815.1_ASM244181v1_genomic.fna.gz
+GCF_002554775.1_ASM255477v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_002554775.1_ASM255477v1_genomic.fna.gz
+GCF_002563535.1_ASM256353v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_002563535.1_ASM256353v1_genomic.fna.gz
+GCF_002563615.1_ASM256361v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_002563615.1_ASM256361v1_genomic.fna.gz
+GCF_002804185.1_ASM280418v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_002804185.1_ASM280418v1_genomic.fna.gz
+GCF_002866835.1_ASM286683v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_002866835.1_ASM286683v1_genomic.fna.gz
+GCF_002895225.1_ASM289522v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_002895225.1_ASM289522v1_genomic.fna.gz
+GCF_002926075.1_ASM292607v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_002926075.1_ASM292607v1_genomic.fna.gz
+GCF_003472365.1_ASM347236v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_003472365.1_ASM347236v1_genomic.fna.gz
+GCF_003627395.2_ASM362739v2_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_003627395.2_ASM362739v2_genomic.fna.gz
+GCF_003627415.1_ASM362741v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_003627415.1_ASM362741v1_genomic.fna.gz
+GCF_003838305.1_ASM383830v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_003838305.1_ASM383830v1_genomic.fna.gz
+GCF_003838315.1_ASM383831v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_003838315.1_ASM383831v1_genomic.fna.gz
+GCF_003838345.1_ASM383834v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_003838345.1_ASM383834v1_genomic.fna.gz
+GCF_003838385.1_ASM383838v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_003838385.1_ASM383838v1_genomic.fna.gz
+GCF_003838425.1_ASM383842v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_003838425.1_ASM383842v1_genomic.fna.gz
+GCF_003839605.1_ASM383960v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_003839605.1_ASM383960v1_genomic.fna.gz
+GCF_003839645.1_ASM383964v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_003839645.1_ASM383964v1_genomic.fna.gz
+GCF_003839705.1_ASM383970v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_003839705.1_ASM383970v1_genomic.fna.gz
+GCF_003839715.1_ASM383971v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_003839715.1_ASM383971v1_genomic.fna.gz
+GCF_003839745.1_ASM383974v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_003839745.1_ASM383974v1_genomic.fna.gz
+GCF_003839805.1_ASM383980v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_003839805.1_ASM383980v1_genomic.fna.gz
+GCF_003841225.1_ASM384122v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_003841225.1_ASM384122v1_genomic.fna.gz
+GCF_003841265.1_ASM384126v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_003841265.1_ASM384126v1_genomic.fna.gz
+GCF_003841285.1_ASM384128v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_003841285.1_ASM384128v1_genomic.fna.gz
+GCF_003841315.1_ASM384131v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_003841315.1_ASM384131v1_genomic.fna.gz
+GCF_003841345.1_ASM384134v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_003841345.1_ASM384134v1_genomic.fna.gz
+GCF_003841365.1_ASM384136v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_003841365.1_ASM384136v1_genomic.fna.gz
+GCF_003841385.1_ASM384138v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_003841385.1_ASM384138v1_genomic.fna.gz
+GCF_004022375.1_ASM402237v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_004022375.1_ASM402237v1_genomic.fna.gz
+GCF_004123105.1_ASM412310v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_004123105.1_ASM412310v1_genomic.fna.gz
+GCF_004194355.1_ASM419435v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_004194355.1_ASM419435v1_genomic.fna.gz
+GCF_004354485.1_ASM435448v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_004354485.1_ASM435448v1_genomic.fna.gz
+GCF_004795205.1_ASM479520v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_004795205.1_ASM479520v1_genomic.fna.gz
+GCF_005146285.1_ASM514628v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_005146285.1_ASM514628v1_genomic.fna.gz
+GCF_005864305.1_ASM586430v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_005864305.1_ASM586430v1_genomic.fna.gz
+GCF_006538925.1_ASM653892v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_006538925.1_ASM653892v1_genomic.fna.gz
+GCF_007954765.1_ASM795476v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_007954765.1_ASM795476v1_genomic.fna.gz
+GCF_008180075.1_ASM818007v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_008180075.1_ASM818007v1_genomic.fna.gz
+GCF_008692945.1_ASM869294v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_008692945.1_ASM869294v1_genomic.fna.gz
+GCF_008728875.1_ASM872887v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_008728875.1_ASM872887v1_genomic.fna.gz
+GCF_009661795.1_ASM966179v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_009661795.1_ASM966179v1_genomic.fna.gz
+GCF_009661855.1_ASM966185v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_009661855.1_ASM966185v1_genomic.fna.gz
+GCF_009661865.1_ASM966186v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_009661865.1_ASM966186v1_genomic.fna.gz
+GCF_009661885.1_ASM966188v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_009661885.1_ASM966188v1_genomic.fna.gz
+GCF_009661935.1_ASM966193v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_009661935.1_ASM966193v1_genomic.fna.gz
+GCF_009661955.1_ASM966195v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_009661955.1_ASM966195v1_genomic.fna.gz
+GCF_009661965.1_ASM966196v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_009661965.1_ASM966196v1_genomic.fna.gz
+GCF_009661985.1_ASM966198v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_009661985.1_ASM966198v1_genomic.fna.gz
+GCF_009662035.1_ASM966203v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_009662035.1_ASM966203v1_genomic.fna.gz
+GCF_009662055.1_ASM966205v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_009662055.1_ASM966205v1_genomic.fna.gz
+GCF_009662075.1_ASM966207v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_009662075.1_ASM966207v1_genomic.fna.gz
+GCF_009662085.1_ASM966208v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_009662085.1_ASM966208v1_genomic.fna.gz
+GCF_009663915.1_ASM966391v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_009663915.1_ASM966391v1_genomic.fna.gz
+GCF_009663925.1_ASM966392v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_009663925.1_ASM966392v1_genomic.fna.gz
+GCF_009663935.1_ASM966393v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_009663935.1_ASM966393v1_genomic.fna.gz
+GCF_009741875.1_ASM974187v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_009741875.1_ASM974187v1_genomic.fna.gz
+GCF_009885055.1_ASM988505v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_009885055.1_ASM988505v1_genomic.fna.gz
+GCF_012689205.1_ASM1268920v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_012689205.1_ASM1268920v1_genomic.fna.gz
+GCF_013007555.1_ASM1300755v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_013007555.1_ASM1300755v1_genomic.fna.gz
+GCF_013249195.1_ASM1324919v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_013249195.1_ASM1324919v1_genomic.fna.gz
+GCF_013395015.3_ASM1339501v3_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_013395015.3_ASM1339501v3_genomic.fna.gz
+GCF_013423685.1_ASM1342368v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_013423685.1_ASM1342368v1_genomic.fna.gz
+GCF_014334715.1_ASM1433471v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_014334715.1_ASM1433471v1_genomic.fna.gz
+GCF_014830215.1_Llact_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_014830215.1_Llact_genomic.fna.gz
+GCF_015552555.1_ASM1555255v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_015552555.1_ASM1555255v1_genomic.fna.gz
+GCF_015666905.1_ASM1566690v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_015666905.1_ASM1566690v1_genomic.fna.gz
+GCF_015667015.1_ASM1566701v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_015667015.1_ASM1566701v1_genomic.fna.gz
+GCF_015667075.1_ASM1566707v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_015667075.1_ASM1566707v1_genomic.fna.gz
+GCF_015714805.1_ASM1571480v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_015714805.1_ASM1571480v1_genomic.fna.gz
+GCF_016406265.1_ASM1640626v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_016406265.1_ASM1640626v1_genomic.fna.gz
+GCF_016649155.1_ASM1664915v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_016649155.1_ASM1664915v1_genomic.fna.gz
+GCF_016649195.2_ASM1664919v2_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_016649195.2_ASM1664919v2_genomic.fna.gz
+GCF_016920995.2_ASM1692099v2_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_016920995.2_ASM1692099v2_genomic.fna.gz
+GCF_016921015.1_ASM1692101v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_016921015.1_ASM1692101v1_genomic.fna.gz
+GCF_016952955.2_ASM1695295v2_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_016952955.2_ASM1695295v2_genomic.fna.gz
+GCF_017821195.1_ASM1782119v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_017821195.1_ASM1782119v1_genomic.fna.gz
+GCF_018195735.1_ASM1819573v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_018195735.1_ASM1819573v1_genomic.fna.gz
+GCF_018195745.1_ASM1819574v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_018195745.1_ASM1819574v1_genomic.fna.gz
+GCF_018195775.1_ASM1819577v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_018195775.1_ASM1819577v1_genomic.fna.gz
+GCF_018195795.1_ASM1819579v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_018195795.1_ASM1819579v1_genomic.fna.gz
+GCF_018195805.1_ASM1819580v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_018195805.1_ASM1819580v1_genomic.fna.gz
+GCF_018195835.1_ASM1819583v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_018195835.1_ASM1819583v1_genomic.fna.gz
+GCF_018887275.1_OSU_Llactis_PrHT3_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_018887275.1_OSU_Llactis_PrHT3_genomic.fna.gz
+GCF_018916825.1_ASM1891682v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_018916825.1_ASM1891682v1_genomic.fna.gz
+GCF_020463755.1_ASM2046375v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_020463755.1_ASM2046375v1_genomic.fna.gz
+GCF_020553675.1_ASM2055367v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_020553675.1_ASM2055367v1_genomic.fna.gz
+GCF_021961665.1_ASM2196166v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_021961665.1_ASM2196166v1_genomic.fna.gz
+GCF_022494905.1_ASM2249490v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_022494905.1_ASM2249490v1_genomic.fna.gz
+GCF_022509285.1_ASM2250928v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_022509285.1_ASM2250928v1_genomic.fna.gz
+GCF_022509685.1_ASM2250968v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_022509685.1_ASM2250968v1_genomic.fna.gz
+GCF_022509705.1_ASM2250970v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_022509705.1_ASM2250970v1_genomic.fna.gz
+GCF_022509735.1_ASM2250973v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_022509735.1_ASM2250973v1_genomic.fna.gz
+GCF_022631055.1_ASM2263105v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_022631055.1_ASM2263105v1_genomic.fna.gz
+GCF_022670815.1_ASM2267081v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_022670815.1_ASM2267081v1_genomic.fna.gz
+GCF_022809755.1_ASM2280975v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_022809755.1_ASM2280975v1_genomic.fna.gz
+GCF_023078515.1_ASM2307851v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_023078515.1_ASM2307851v1_genomic.fna.gz
+GCF_023206755.1_ASM2320675v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_023206755.1_ASM2320675v1_genomic.fna.gz
+GCF_023611865.1_ASM2361186v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_023611865.1_ASM2361186v1_genomic.fna.gz
+GCF_023611885.1_ASM2361188v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_023611885.1_ASM2361188v1_genomic.fna.gz
+GCF_023613935.1_ASM2361393v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_023613935.1_ASM2361393v1_genomic.fna.gz
+GCF_023734735.1_ASM2373473v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_023734735.1_ASM2373473v1_genomic.fna.gz
+GCF_023734755.1_ASM2373475v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_023734755.1_ASM2373475v1_genomic.fna.gz
+GCF_023743795.1_ASM2374379v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_023743795.1_ASM2374379v1_genomic.fna.gz
+GCF_023743835.1_ASM2374383v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_023743835.1_ASM2374383v1_genomic.fna.gz
+GCF_023744055.1_ASM2374405v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_023744055.1_ASM2374405v1_genomic.fna.gz
+GCF_023744195.1_ASM2374419v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_023744195.1_ASM2374419v1_genomic.fna.gz
+GCF_023744485.1_ASM2374448v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_023744485.1_ASM2374448v1_genomic.fna.gz
+GCF_023809745.1_ASM2380974v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_023809745.1_ASM2380974v1_genomic.fna.gz
+GCF_023893655.1_ASM2389365v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_023893655.1_ASM2389365v1_genomic.fna.gz
+GCF_023893665.1_ASM2389366v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_023893665.1_ASM2389366v1_genomic.fna.gz
+GCF_024461915.1_ASM2446191v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_024461915.1_ASM2446191v1_genomic.fna.gz
+GCF_024461935.1_ASM2446193v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_024461935.1_ASM2446193v1_genomic.fna.gz
+GCF_024665635.1_ASM2466563v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_024665635.1_ASM2466563v1_genomic.fna.gz
+GCF_025128595.1_ASM2512859v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_025128595.1_ASM2512859v1_genomic.fna.gz
+GCF_025128615.1_ASM2512861v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_025128615.1_ASM2512861v1_genomic.fna.gz
+GCF_025128635.1_ASM2512863v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_025128635.1_ASM2512863v1_genomic.fna.gz
+GCF_025128655.1_ASM2512865v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_025128655.1_ASM2512865v1_genomic.fna.gz
+GCF_025128675.1_ASM2512867v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_025128675.1_ASM2512867v1_genomic.fna.gz
+GCF_025128715.1_ASM2512871v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_025128715.1_ASM2512871v1_genomic.fna.gz
+GCF_025128735.1_ASM2512873v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_025128735.1_ASM2512873v1_genomic.fna.gz
+GCF_025128755.1_ASM2512875v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_025128755.1_ASM2512875v1_genomic.fna.gz
+GCF_025128765.1_ASM2512876v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_025128765.1_ASM2512876v1_genomic.fna.gz
+GCF_025128785.1_ASM2512878v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_025128785.1_ASM2512878v1_genomic.fna.gz
+GCF_025128815.1_ASM2512881v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_025128815.1_ASM2512881v1_genomic.fna.gz
+GCF_025128835.1_ASM2512883v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_025128835.1_ASM2512883v1_genomic.fna.gz
+GCF_025128855.1_ASM2512885v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_025128855.1_ASM2512885v1_genomic.fna.gz
+GCF_025128875.1_ASM2512887v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_025128875.1_ASM2512887v1_genomic.fna.gz
+GCF_025128885.1_ASM2512888v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_025128885.1_ASM2512888v1_genomic.fna.gz
+GCF_025128915.1_ASM2512891v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_025128915.1_ASM2512891v1_genomic.fna.gz
+GCF_025128935.1_ASM2512893v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_025128935.1_ASM2512893v1_genomic.fna.gz
+GCF_025130815.1_ASM2513081v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_025130815.1_ASM2513081v1_genomic.fna.gz
+GCF_025130825.1_ASM2513082v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_025130825.1_ASM2513082v1_genomic.fna.gz
+GCF_025130855.1_ASM2513085v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_025130855.1_ASM2513085v1_genomic.fna.gz
+GCF_025130865.1_ASM2513086v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_025130865.1_ASM2513086v1_genomic.fna.gz
+GCF_025132885.1_ASM2513288v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_025132885.1_ASM2513288v1_genomic.fna.gz
+GCF_025132925.1_ASM2513292v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_025132925.1_ASM2513292v1_genomic.fna.gz
+GCF_025132965.1_ASM2513296v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_025132965.1_ASM2513296v1_genomic.fna.gz
+GCF_025132985.1_ASM2513298v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_025132985.1_ASM2513298v1_genomic.fna.gz
+GCF_025133015.1_ASM2513301v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_025133015.1_ASM2513301v1_genomic.fna.gz
+GCF_025133035.1_ASM2513303v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_025133035.1_ASM2513303v1_genomic.fna.gz
+GCF_025133055.1_ASM2513305v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_025133055.1_ASM2513305v1_genomic.fna.gz
+GCF_025133065.1_ASM2513306v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_025133065.1_ASM2513306v1_genomic.fna.gz
+GCF_025133095.1_ASM2513309v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_025133095.1_ASM2513309v1_genomic.fna.gz
+GCF_025186445.1_ASM2518644v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_025186445.1_ASM2518644v1_genomic.fna.gz
+GCF_025188735.1_ASM2518873v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_025188735.1_ASM2518873v1_genomic.fna.gz
+GCF_025188745.1_ASM2518874v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_025188745.1_ASM2518874v1_genomic.fna.gz
+GCF_025188795.1_ASM2518879v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_025188795.1_ASM2518879v1_genomic.fna.gz
+GCF_025188825.1_ASM2518882v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_025188825.1_ASM2518882v1_genomic.fna.gz
+GCF_025188855.1_ASM2518885v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_025188855.1_ASM2518885v1_genomic.fna.gz
+GCF_025188885.1_ASM2518888v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_025188885.1_ASM2518888v1_genomic.fna.gz
+GCF_025188905.1_ASM2518890v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_025188905.1_ASM2518890v1_genomic.fna.gz
+GCF_025188925.1_ASM2518892v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_025188925.1_ASM2518892v1_genomic.fna.gz
+GCF_025188935.1_ASM2518893v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_025188935.1_ASM2518893v1_genomic.fna.gz
+GCF_025188965.1_ASM2518896v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_025188965.1_ASM2518896v1_genomic.fna.gz
+GCF_025188985.1_ASM2518898v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_025188985.1_ASM2518898v1_genomic.fna.gz
+GCF_025189005.1_ASM2518900v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_025189005.1_ASM2518900v1_genomic.fna.gz
+GCF_025189065.1_ASM2518906v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_025189065.1_ASM2518906v1_genomic.fna.gz
+GCF_025189085.1_ASM2518908v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_025189085.1_ASM2518908v1_genomic.fna.gz
+GCF_025189105.1_ASM2518910v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_025189105.1_ASM2518910v1_genomic.fna.gz
+GCF_025189125.1_ASM2518912v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_025189125.1_ASM2518912v1_genomic.fna.gz
+GCF_025189145.1_ASM2518914v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_025189145.1_ASM2518914v1_genomic.fna.gz
+GCF_025189165.1_ASM2518916v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_025189165.1_ASM2518916v1_genomic.fna.gz
+GCF_025189175.1_ASM2518917v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_025189175.1_ASM2518917v1_genomic.fna.gz
+GCF_025189205.1_ASM2518920v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_025189205.1_ASM2518920v1_genomic.fna.gz
+GCF_025189235.1_ASM2518923v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_025189235.1_ASM2518923v1_genomic.fna.gz
+GCF_025562895.2_ASM2556289v2_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_025562895.2_ASM2556289v2_genomic.fna.gz
+GCF_025562955.2_ASM2556295v3_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_025562955.2_ASM2556295v3_genomic.fna.gz
+GCF_025961305.1_ASM2596130v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_025961305.1_ASM2596130v1_genomic.fna.gz
+GCF_026410165.1_12-16-PSH_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_026410165.1_12-16-PSH_genomic.fna.gz
+GCF_027533725.1_ASM2753372v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_027533725.1_ASM2753372v1_genomic.fna.gz
+GCF_027594765.1_ASM2759476v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_027594765.1_ASM2759476v1_genomic.fna.gz
+GCF_027661125.1_ASM2766112v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_027661125.1_ASM2766112v1_genomic.fna.gz
+GCF_027672645.1_ASM2767264v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_027672645.1_ASM2767264v1_genomic.fna.gz
+GCF_027672665.1_ASM2767266v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_027672665.1_ASM2767266v1_genomic.fna.gz
+GCF_027672695.1_ASM2767269v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_027672695.1_ASM2767269v1_genomic.fna.gz
+GCF_027672725.1_ASM2767272v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_027672725.1_ASM2767272v1_genomic.fna.gz
+GCF_027672785.1_ASM2767278v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_027672785.1_ASM2767278v1_genomic.fna.gz
+GCF_027672865.1_ASM2767286v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_027672865.1_ASM2767286v1_genomic.fna.gz
+GCF_027672965.1_ASM2767296v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_027672965.1_ASM2767296v1_genomic.fna.gz
+GCF_027673065.1_ASM2767306v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_027673065.1_ASM2767306v1_genomic.fna.gz
+GCF_027673085.1_ASM2767308v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_027673085.1_ASM2767308v1_genomic.fna.gz
+GCF_027673155.1_ASM2767315v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_027673155.1_ASM2767315v1_genomic.fna.gz
+GCF_027673225.1_ASM2767322v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_027673225.1_ASM2767322v1_genomic.fna.gz
+GCF_027673305.1_ASM2767330v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_027673305.1_ASM2767330v1_genomic.fna.gz
+GCF_027673485.1_ASM2767348v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_027673485.1_ASM2767348v1_genomic.fna.gz
+GCF_027674205.1_ASM2767420v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_027674205.1_ASM2767420v1_genomic.fna.gz
+GCF_027674325.1_ASM2767432v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_027674325.1_ASM2767432v1_genomic.fna.gz
+GCF_027674405.1_ASM2767440v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_027674405.1_ASM2767440v1_genomic.fna.gz
+GCF_027674685.1_ASM2767468v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_027674685.1_ASM2767468v1_genomic.fna.gz
+GCF_027676035.1_ASM2767603v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_027676035.1_ASM2767603v1_genomic.fna.gz
+GCF_027676135.1_ASM2767613v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_027676135.1_ASM2767613v1_genomic.fna.gz
+GCF_027676165.1_ASM2767616v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_027676165.1_ASM2767616v1_genomic.fna.gz
+GCF_027679985.1_ASM2767998v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_027679985.1_ASM2767998v1_genomic.fna.gz
+GCF_027688475.1_ASM2768847v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_027688475.1_ASM2768847v1_genomic.fna.gz
+GCF_027706825.1_ASM2770682v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_027706825.1_ASM2770682v1_genomic.fna.gz
+GCF_027706885.1_ASM2770688v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_027706885.1_ASM2770688v1_genomic.fna.gz
+GCF_027706925.1_ASM2770692v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_027706925.1_ASM2770692v1_genomic.fna.gz
+GCF_027706945.1_ASM2770694v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_027706945.1_ASM2770694v1_genomic.fna.gz
+GCF_028994235.1_ASM2899423v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_028994235.1_ASM2899423v1_genomic.fna.gz
+GCF_029542225.1_ASM2954222v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_029542225.1_ASM2954222v1_genomic.fna.gz
+GCF_029581115.1_ASM2958111v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_029581115.1_ASM2958111v1_genomic.fna.gz
+GCF_029633895.1_ASM2963389v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_029633895.1_ASM2963389v1_genomic.fna.gz
+GCF_029664345.1_ASM2966434v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_029664345.1_ASM2966434v1_genomic.fna.gz
+GCF_029664405.1_ASM2966440v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_029664405.1_ASM2966440v1_genomic.fna.gz
+GCF_029664425.1_ASM2966442v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_029664425.1_ASM2966442v1_genomic.fna.gz
+GCF_029664435.1_ASM2966443v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_029664435.1_ASM2966443v1_genomic.fna.gz
+GCF_029664465.1_ASM2966446v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_029664465.1_ASM2966446v1_genomic.fna.gz
+GCF_029664485.1_ASM2966448v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_029664485.1_ASM2966448v1_genomic.fna.gz
+GCF_029664495.1_ASM2966449v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_029664495.1_ASM2966449v1_genomic.fna.gz
+GCF_029664525.1_ASM2966452v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_029664525.1_ASM2966452v1_genomic.fna.gz
+GCF_029664535.1_ASM2966453v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_029664535.1_ASM2966453v1_genomic.fna.gz
+GCF_029664565.1_ASM2966456v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_029664565.1_ASM2966456v1_genomic.fna.gz
+GCF_029664575.1_ASM2966457v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_029664575.1_ASM2966457v1_genomic.fna.gz
+GCF_029664605.1_ASM2966460v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_029664605.1_ASM2966460v1_genomic.fna.gz
+GCF_029667145.1_ASM2966714v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_029667145.1_ASM2966714v1_genomic.fna.gz
+GCF_029667185.1_ASM2966718v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_029667185.1_ASM2966718v1_genomic.fna.gz
+GCF_029667205.1_ASM2966720v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_029667205.1_ASM2966720v1_genomic.fna.gz
+GCF_029667225.1_ASM2966722v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_029667225.1_ASM2966722v1_genomic.fna.gz
+GCF_029874895.1_ASM2987489v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_029874895.1_ASM2987489v1_genomic.fna.gz
+GCF_029953655.1_ASM2995365v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_029953655.1_ASM2995365v1_genomic.fna.gz
+GCF_030005395.1_ASM3000539v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_030005395.1_ASM3000539v1_genomic.fna.gz
+GCF_030005415.1_ASM3000541v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_030005415.1_ASM3000541v1_genomic.fna.gz
+GCF_030005425.1_ASM3000542v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_030005425.1_ASM3000542v1_genomic.fna.gz
+GCF_030005445.1_ASM3000544v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_030005445.1_ASM3000544v1_genomic.fna.gz
+GCF_030360765.1_ASM3036076v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_030360765.1_ASM3036076v1_genomic.fna.gz
+GCF_030360785.1_ASM3036078v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_030360785.1_ASM3036078v1_genomic.fna.gz
+GCF_030360805.1_ASM3036080v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_030360805.1_ASM3036080v1_genomic.fna.gz
+GCF_030360865.1_ASM3036086v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_030360865.1_ASM3036086v1_genomic.fna.gz
+GCF_030360885.1_ASM3036088v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_030360885.1_ASM3036088v1_genomic.fna.gz
+GCF_030360905.1_ASM3036090v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_030360905.1_ASM3036090v1_genomic.fna.gz
+GCF_030360945.1_ASM3036094v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_030360945.1_ASM3036094v1_genomic.fna.gz
+GCF_030360955.1_ASM3036095v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_030360955.1_ASM3036095v1_genomic.fna.gz
+GCF_030360985.1_ASM3036098v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_030360985.1_ASM3036098v1_genomic.fna.gz
+GCF_030361005.1_ASM3036100v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_030361005.1_ASM3036100v1_genomic.fna.gz
+GCF_030361055.1_ASM3036105v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_030361055.1_ASM3036105v1_genomic.fna.gz
+GCF_030361205.1_ASM3036120v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_030361205.1_ASM3036120v1_genomic.fna.gz
+GCF_030361235.1_ASM3036123v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_030361235.1_ASM3036123v1_genomic.fna.gz
+GCF_030361265.1_ASM3036126v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_030361265.1_ASM3036126v1_genomic.fna.gz
+GCF_030361305.1_ASM3036130v1_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_030361305.1_ASM3036130v1_genomic.fna.gz
+GCF_900088425.1_A12_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_900088425.1_A12_genomic.fna.gz
+GCF_900240925.1_CF106_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_900240925.1_CF106_genomic.fna.gz
+GCF_900240935.1_CF102_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_900240935.1_CF102_genomic.fna.gz
+GCF_900240955.1_CF109_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_900240955.1_CF109_genomic.fna.gz
+GCF_900240965.1_CF104_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_900240965.1_CF104_genomic.fna.gz
+GCF_900248205.1_ASM90024820v2_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_900248205.1_ASM90024820v2_genomic.fna.gz
+GCF_900291885.1_CF112_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_900291885.1_CF112_genomic.fna.gz
+GCF_900291895.1_CF111_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_900291895.1_CF111_genomic.fna.gz
+GCF_902364565.1_MGYG-HGUT-00226_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_902364565.1_MGYG-HGUT-00226_genomic.fna.gz
+GCF_925281505.1_IM145_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_925281505.1_IM145_genomic.fna.gz
+GCF_925282515.1_IM1326_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_925282515.1_IM1326_genomic.fna.gz
+GCF_925288765.1_IM143_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_925288765.1_IM143_genomic.fna.gz
+GCF_925292645.1_IM1325_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_925292645.1_IM1325_genomic.fna.gz
+GCF_925301855.1_IM1409_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_925301855.1_IM1409_genomic.fna.gz
+GCF_925301915.1_IM1341_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_925301915.1_IM1341_genomic.fna.gz
+GCF_932750895.1_Lactococcus_lactis_DSM110082_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_932750895.1_Lactococcus_lactis_DSM110082_genomic.fna.gz
+GCF_948275315.1_LMG_32862_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_948275315.1_LMG_32862_genomic.fna.gz
+GCF_948275335.1_LMG_32864_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_948275335.1_LMG_32864_genomic.fna.gz
+GCF_948275405.1_LMG_32861_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_948275405.1_LMG_32861_genomic.fna.gz
+GCF_948275415.1_LMG_32863_genomic.fna	/group/weimergrp2/genomes/lactococcus/genomes/GCF_948275415.1_LMG_32863_genomic.fna.gz
